@@ -11,12 +11,7 @@
       "url": "http://opendatacommons.org/licenses/pddl/1.0/"
     }
   ],
-  "sources": [
-    {
-      "name": "Shared Google Spreadsheet",
-      "web": "https://docs.google.com/spreadsheets/d/1MqFMaCwKI946tw5NImHW3b6rgsKGXtBdZsckrH3cFNo/edit"
-    }
-  ],
+  "sources": [],
   "resources": [
     {
       "path": "data/energy-datasets.csv",
