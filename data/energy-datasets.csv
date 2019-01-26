@@ -159,9 +159,9 @@ TennetTSO,,https://www.tennet.eu/de/#&panel1-1,,,,,
 Elia,"Load
 Interconnection
 Generation
-Balacing",http://www.elia.be/en/grid-data/data-download,"CSV, Excel",,be,,Needs clarification
+Balacing",http://www.elia.be/en/grid-data/data-download,,,be,,"CSV, Excel; Needs clarification"
 Elia,"Grid technical Data
-Map High voltage grid",http://www.elia.be/en/grid-data/Grid-Technical-Data,"Excel, PDF",,be,,
+Map High voltage grid",http://www.elia.be/en/grid-data/Grid-Technical-Data,,,be,,"Excel, PDF"
 ENTSO-E,Transparenzplattform der europäischen Uebertragungsnetzbetreiber,https://transparency.entsoe.eu/dashboard/show,,,,,
 ENTSO-E,"Load (Total Load Day ahead, Total Load Forecast (month, week, year, margin)",https://transparency.entsoe.eu/dashboard/show,,,,,
 ENTSO-E,"Generation (installed capacity, water reservoirs and hydro storage plants, actual generation by type, actual generation per unit, forecast wind and solar)",https://transparency.entsoe.eu/dashboard/show,,,,,Energy Production and production forecast
@@ -169,10 +169,10 @@ ENTSO-E,"Transmission (scheduled commercial exchange, cross border physical flow
 ENTSO-E,"Balancing (accepted offers, volumes of contracted balancing reserves, imbalance, cross border balancing)",https://transparency.entsoe.eu/dashboard/show,,,,,Data about regulation energy used to keep the electrical transmission grid in balance
 ENTSO-E,Outages,https://transparency.entsoe.eu/dashboard/show,,,,,Data about planned maintenence and failures inside the electrical transmission grid
 ENTSO-E,"Congestion Management (Countertrading, Redispatching internal, Redispatching cross border)",https://transparency.entsoe.eu/dashboard/show,,,,,Data about actions taken to relieve overloaded parts of the electrical transmission grid
-ENTSO-E,"Data 2011 bis 2015 by country (Cross Border commercial schedule, cross border physical flow, year ahead NTC, Balance Management, Total load)",https://transparency.entsoe.eu/dashboard/show,"XML, XLSX",,,,
+ENTSO-E,"Data 2011 bis 2015 by country (Cross Border commercial schedule, cross border physical flow, year ahead NTC, Balance Management, Total load)",https://transparency.entsoe.eu/dashboard/show,,,,,"XML, XLSX"
 ENTSO-E,Grid Map,https://www.entsoe.eu/data/map/,,,,,Website des Verbandes der europäischen Übertragungsnetzbetreiber
 ENTSO-E,"Power Statistics by Country (monthly domestic values, net generating capacity, Metadata Repository, physical energy & power flows, inventory of transmission, monthly hourly load values, inventory of generation)",https://www.entsoe.eu/data/power-stats/,,,,,
-ENTSO-E,Outlook Reports by country,https://www.entsoe.eu/outlooks/seasonal/,"XLSX, PDF",,,,Winter and summer outlooks since 2009
+ENTSO-E,Outlook Reports by country,https://www.entsoe.eu/outlooks/seasonal/,,,,,"XLSX, PDF; Winter and summer outlooks since 2009"
 ENTSO-E,"IT Plattforms (Links to Transparency, Common Grid Model, ",https://www.entsoe.eu/data/it-platforms/#,,,,,
 ENTSO-E,"Statistics and Data (monthly statistics reports, electricity in Europe, Statistical yearbooks, statistical factsheets, annual statistics, load values)",https://www.entsoe.eu/publications/statistics-and-data/,,,,,Online Application Portal for Network Datasets also available
 Netztransparenz.de,Informationsplattform der deutschen Uebertragungsnetzbetreiber,https://www.netztransparenz.de/,,,de,,
@@ -185,7 +185,7 @@ Netztransparenz.de,"Windenergie HOchrechnung der 4 Uebertragungsnetzbetreiber 5
 Intraday Capacity,Available Transfer Capacity (Europe),https://www.intraday-capacity.com/php/main.php,,,,,
 TSCNET Services,Services for power transmission system operators (TSOs) and their control centres to maintain the operational security of our electricity system’,https://www.tscnet.eu/,,,,,Informationsplattform der Transmission System Operator Security Cooperation (TSC).
 Zürich,"Bevölkerung (Linked open statistical Data, Daten ZüriZahlen App), Bauen und Wohnen (Fernwärmegebiete, Gasrückzugsgebiete, Linked Open statistical data), Mobilität (Standorte autom.Zählgeräte, Linked open statistical Data, Daten Velozählstelle,…), Umwelt, Energie (Linked open statistical data, Beleuchtung, Wasser-&Gasversorgung)
-",https://data.stadt-zuerich.ch/,"wms, wfs, json, xml, pdf, csv, kmz, gpkg",,ch,,
+",https://data.stadt-zuerich.ch/,,,ch,,"wms, wfs, json, xml, pdf, csv, kmz, gpkg"
 Basel,"Raum & Umwelt (Eigenproduktion Strom, Energieeffizienz, Energiepreise CH, ....)
 Bevölkerung
 Energie (Stromverbrauch nach EnergieTräger, spez.Heizenergieverbr., neue erneuerbare Energien, Stromverbrauch pro Einwohner)
@@ -196,7 +196,7 @@ Bern,"Statistik
 Bevölkerung (Haushalte, demographische Merkmale, Prognosen....)
 Volkswirtschaft (Volkseinkommen, GDP/BIP)
 Energie (Gas-&Wasserversorgung, KVA, FErnwärme, Elektrizitätswerk)
-Mobilität (Verkehrszählungen, Motorfahrzeuge, öV, Strassennetz)",https://www.bern.ch/open-government-data-ogd/ogd-nach-themen,"excel, PDF",,ch,,
+Mobilität (Verkehrszählungen, Motorfahrzeuge, öV, Strassennetz)",https://www.bern.ch/open-government-data-ogd/ogd-nach-themen,,,ch,,"excel, PDF"
 Bern,"Geodaten
 Immobilien",https://www.bern.ch/open-government-data-ogd/ogd-nach-themen,,,ch,,
 München,"Bevölkerung
@@ -205,7 +205,6 @@ Umwelt/Klima
 Geobasisdaten
 Infrastruktur",https://www.opengov-muenchen.de/,,,de,,
 Stuttgart,Verkehr,https://www.openvvs.de/,,,de,,API
-Stuttgart,,,,,de,,
 Berlin,Home/Uebersicht,https://daten.berlin.de/datensaetze,,,de,,
 Berlin,"Geographie und Stadtplanung
 Gemarkungen
@@ -227,8 +226,7 @@ Summe EInspeisung Hochspannung
 Summe Einspeisung Niederspannung
 Preisblatt Netznutzung
 Fahrplanprognosen Standardlastkunden
-Web Service Last und Erzeugung 15min
-....",https://daten.berlin.de/kategorie/ver-und-entsorgung,,,de,,
+Web Service Last und Erzeugung 15min",https://daten.berlin.de/kategorie/ver-und-entsorgung,,,de,,
 Berlin,"Verkehr
 Verkehr und Personenaufkommen (Parkplatzbelegung, Bewegungsdaten)
 eMobility Ladestationen
@@ -236,6 +234,7 @@ eMobility Ladestationen
 öV Fahrplan
 Smart City Berlin Ernst Reuter Platz","https://daten.berlin.de/kategorie/verkehr
 
-http://flow.dai-labor.de/datasets/",Fahrplandaten via API und GTFS,,de,,
+http://flow.dai-labor.de/datasets/",,,de,,Fahrplandaten via API und GTFS
 Bundesamt für Energie,Nationale Dateninfrastruktur Elektromobilität (DIEMO),https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/ch.bfe.ladestellen-elektromobilitaet.json,,,ch,,
 LEMNET,Lemnet Ladestationspunkte,https://www.lemnet.org/de/downloads,,,,,
+OPSD,Open Power System Data,https://open-power-system-data.org/,https://open-power-system-data.org/publications,2018,,https://open-power-system-data.org/legal,"The current project phase runs from January 2018 until December 2020 and is carried out by Neon Neue Energieökonomik, Technical University of Berlin, DIW Berlin and ETH Zürich. There will be regular, at least yearly releases of all existing data packages and additions of new variables in the data packages."
