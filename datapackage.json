@@ -1,0 +1,71 @@
+{
+  "name": "energy-data",
+  "title": "A list of datasets related to Energy",
+  "format": "csv",
+  "datapackage_version": "1.0.0",
+  "last_modified": "2019-01-26",
+  "license": "PDDL-1.0",
+  "licenses": [
+    {
+      "type": "ODC-PDDL-1.0",
+      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Shared Google Spreadsheet",
+      "web": "https://docs.google.com/spreadsheets/d/1MqFMaCwKI946tw5NImHW3b6rgsKGXtBdZsckrH3cFNo/edit"
+    }
+  ],
+  "resources": [
+    {
+      "path": "data/energy-datasets.csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Source",
+            "description": "The current data owner or maintainer",
+            "type": "string"
+          },{
+            "name": "Title",
+            "description": "A short, concise title",
+            "type": "string"
+          }{
+            "name": "URL",
+            "description": "A webpage which describes the data and provides download links",
+            "type": "string"
+          },{
+            "name": "Example URL",
+            "description": "Any example applications or visualisations which illustrate this specific dataset",
+            "type": "string"
+          },{
+            "name": "Updated",
+            "description": "In which year was this dataset last updated",
+            "type": "string"
+          },{
+            "name": "Tags",
+            "description": "Any keywords, space delimited, which help us to sort through the datasets. Include an ISO country code (ch, uk, ...), if it is country-specific.",
+            "type": "string"
+          },{
+            "name": "License",
+            "description": "Brief description of the terms of use, along with detailed links to any License or such",
+            "type": "string"
+          },{
+            "name": "Comments",
+            "description": "Further details related to format, content, or usage",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "contributors":[{
+    "name": "Opendata.ch - Swiss chapter of Open Knowledge",
+    "email": "info@opendata.ch",
+    "web": "http://opendata.ch"
+  }],
+  "maintainers":[{
+    "name": "Oleg Lavrovsky",
+    "web": "https://github.com/loleg/"
+  }]
+}
