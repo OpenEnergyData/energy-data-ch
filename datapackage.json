@@ -30,7 +30,7 @@
             "name": "Title",
             "description": "A short, concise title",
             "type": "string"
-          }{
+          },{
             "name": "URL",
             "description": "A webpage which describes the data and provides download links",
             "type": "string"
