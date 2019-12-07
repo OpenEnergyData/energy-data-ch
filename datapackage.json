@@ -55,9 +55,9 @@
     }
   ],
   "contributors":[{
-    "name": "Opendata.ch - Swiss chapter of Open Knowledge",
+    "title": "Opendata.ch - Swiss chapter of Open Knowledge",
     "email": "info@opendata.ch",
-    "web": "http://opendata.ch"
+    "web": "https://datahub.io/opendatach"
   }],
   "maintainers":[{
     "name": "Oleg Lavrovsky",
