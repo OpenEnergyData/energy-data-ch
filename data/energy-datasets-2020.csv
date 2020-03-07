@@ -1,0 +1,728 @@
+Source,Tags,Title,Status,URL,Example URL,License,Format,Comments,,
+,,,,,,,,,,
+Mikrozensus Verkehr und Mobilität (CH),"Micro census traffic, mobility","soziodemografische Daten (Alter, Geschlecht, Ausbildung, beruflicher Status usw. 
+Besitz von Fahrzeugen, Führerausweisen und ÖV-Abonnementen
+tägliche Mobilität (Anzahl Wege, Zeitaufwand, Distanzen, Verkehrszwecke & Verkehrsmittelnutzung
+
+Main page
+There are no restricted tables or limited information
+
+",,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/verkehrsverhalten.html,,,,Tabellen – Erhebung alle 5 Jahre (Daten aus dem Jahr 2015),,
+Mikrozensus Verkehr und Mobilität (CH),"Micro census traffic, mobility",overview publications,,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/verkehrsverhalten.assetdetail.1840477.html,,,,,,
+Mikrozensus Verkehr und Mobilität (CH),"Micro census traffic, mobility",tables,,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/verkehrsverhalten/tabellen-2015/hauptbericht.html,,,,,,
+,,,,,,,,,,
+Bundesamt für Statistik,,,,https://www.bfs.admin.ch/bfs/de/home/statistiken.html,,,,,,
+Bundesamt für Statistik,Mobilität,Pendlermobilität,,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/pendlermobilitaet.html,,,, Hierzu liegt auch ein zur Verfügung gestelltes Datenpaket des BFS vor,,
+Bundesamt für Statistik,Energie kennzahlen,"Energie
+Importe/Exporte
+Stromerzeugung
+Enedenergieverbrauch nach Energieträgern
+Endverbraucherausgaben für Energie",,https://www.bfs.admin.ch/bfs/de/home/statistiken/energie.html,,,,"Karten, Tabellen, Grafiken",,
+Bundesamt für Statistik,Mobilität,"Mobilität/Verkehr
+Personenverkehr
+Güterverkehr
+Verkehrsinfrastruktur und Fahrzeuge",,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr.html,,,,"Karten, Tabellen, Grafiken",,
+Bundesamt für Statistik,Mobilität,Mobilität/Verkehr Mikrozensus 2015 Tabellenpakete,,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/verkehrsverhalten/tabellen-2015.html,,,,,,
+,,,,,,,,,,
+Statistik Aargau,general statistics ,overview statistics Cantone of Aargau,,https://www.ag.ch/de/dfr/statistik/datenportal/filterabfrage/datenportal_filterabfrage.jsp?rewriteRemoteUrl=%2Fapp%2Fsajato-frontend%2Fselect,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+API Meteotest,,,,?,,,,,,
+Swisstopo,,allgemeine Datensätze,,?,,,,,,
+Swisstopo,,Gemeindegrenzen,,,https://map.geo.admin.ch/?layers=ch.swisstopo.swissboundaries3d-bezirk-flaeche.fill,,,linked data  http://ld.geo.admin.ch/ metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.swisstopo.swissboundaries3d-bezirk-flaeche.fill,,
+Swisstopo,Adressen,Adressen,,https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register,https://map.geo.admin.ch/?layers=ch.bfs.gebaeude_wohnungs_register,,,Metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.bfs.gebaeude_wohnungs_register,,
+Swisstopo,PLZ Ortschaften,PLZ Ortschaften,,https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/,https://map.geo.admin.ch/?layers=ch.swisstopo-vd.ortschaftenverzeichnis_plz,,,Metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.swisstopo-vd.ortschaftenverzeichnis_plz,,
+Swisstopo,Namen/Flurnamen,Namen/Flurnamen,,https://data.geo.admin.ch/ch.swisstopo.swissnames3d,https://map.geo.admin.ch/?layers=ch.swisstopo.swissnames3d,,,Metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.swisstopo.swissnames3d,,
+,,,,,,,,,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,https://opendata.swiss/en/organization/bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-atmosphaere download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,https://opendata.swiss/en/dataset/automatische-wetterstationen-aktuelle-messwerte,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-automatisch download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-beobachtungen download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-flugwetter download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-klima download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-manuell download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-partner download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-phaenologie download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-pollen download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messnetz-webcams download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-aktuell download metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-foehn-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-globalstrahlung-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-luftdruck-700hpa-flaeche-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-luftdruck-850hpa-flaeche-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-luftdruck-qfe-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-luftdruck-qff-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-luftdruck-qnh-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-luftfeuchtigkeit-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-lufttemperatur-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-niederschlag-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-sonnenscheindauer-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-taupunkt-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-wind-boeenspitze-kmh-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.messwerte-windgeschwindigkeit-kmh-10min download preview metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.normwerttabellen download metadata,,
+Meteo Schweiz,Wetter,Echtzeitdaten Meteoschweiz,,http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz,,,ch.meteoschweiz.temperaturmittel-1864 download metadata,,
+,,,,,,,,,,
+Agroscope,Wetter,historical weather data 10min intervals,,http://www.agrometeo.ch/de/meteorology/datas,,,,,,
+,,,,,,,,,,
+,Wind Data,Reanalyse-Daten des DWD (gemeinsam mit den Unis Bonn und Köln erstellt und jetzt operationell weitergeführt) an. Diese Daten haben eine Auflösung von 6.2km und gehen bis 1995 zurück,,http://opendata.dwd.de/climate_environment/REA/COSMO_REA6/,https://reanalysis.meteo.uni-bonn.de,,,Website mit Erläuterungen und Links zu den Datensätzen,,
+EPEX Strombörsendaten > Matthias Galus,,,,?,,,,,,
+Wetterdaten SBB,Wetter,Zugriff auf die Wetterapi von meteomatics. Beschreibung der Parameter auf API.Meteomatics.com. Die Historie geht mehrere Jahre zurück und es sind unterschiedlichste Parameter verfügbar,realtime,weather.api.sbb.ch   Zugang ist beschrieben auf https://data.sbb.ch/pages/event/?flg=de,,,,,,
+Stadt Aarau ,,?,,?,,,,,,
+GeoProRegio,Versorgungsnetze,"GeoDatenshop Versorgungsunternehmen Aargau:
+
+Stromnetz
+Gasnetz
+Abwasser
+Wasser
+Fernwärme",,https://www.geoproregio.ch/maps,,,,"Login mit folgenden Daten:
+
+Benutzername: ZukunftAARGAU
+Passwort: VW5qWFSuZe
+
+weiter via ""Geodatenshop""
+",,
+GeoProRegio,,Nutzungsbedingungen,,https://www.geoproregio.ch/nutzungsbedingungen/nutzungsbedingungen,,,,,,
+Eniwa eigene Daten,Energie produktion?,,,?,,,,,,
+AEW eigene Daten,Energie produktion?,,,?,,,,,,
+BVU Verkehrsfluss/Verkehrsdaten,Mobilität,,,?,,,,,,
+"""Senozon""….",?,,,?,,,,,,
+"GWR Daten, GESA",Gebäude Register,Gebäude- und Wohnungsregister (ganze Schweiz),,"https://www.housing-stat.ch/de/start.html
+
+https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register/CSV/CH/CH.zip
+
+",,,,direkter Download-Link,,
+"GWR Daten, GESA",Gebäude Register,Gebäude- und Wohnungsregister (Aargau),,https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register/CSV/meta.txt,,,,"Kantonale oder
+kommunale Teil-Downloads Liste",,
+"GWR Daten, GESA",Energie Träger,Daten Energieträger nach gebäuden und Gemeinden,,,,,,als Excel File verfügbar,,
+"GWR Daten, GESA",Energie Träger,"siehe auch für Aarau, Rheinfelden, Bremgarten unter ""GeoImpact""",,,,,,,,
+,,,,,,,,,,
+ARAMIS > Datenbank für Projekte finanziert durch Bund,,,,,,,,,,
+BENEnergy,Haushalte,"Datensätze von Haushalten aus der Schweiz zu 37 Eigenschaften (z.B. Einstellung,
+Haushaltsgrösse, Solaranlage); anonymisiert - keine Adresse
+
+--
+Insgesamt ca. 5'500 Datensätze",,https://bit.ly/2GcK5Lq,,,,,,
+,,,,,,,,,,
+ProNovo (Swissgrid-Daten),Einspeisevergütung,"Cockpit EVS (wichtigste Kennzahlen Einspeisevergütungssystem)
+Cockpit EIV (Einmalvergütung) > wie auf Homepage angeboten
+Cockpit HKN (Herkunftsnachweise) > wie auf Homepage angeboten
+Statistik Kostendeckende Einspeisevergütung > wie auf Homepage angeboten",,https://pronovo.ch/de/services/berichte/#,,,,Daten Stromkennzeichnung via Mail erhalten! alle anderen Daten wie auf Homepage von Pronovo,,
+ProNovo (Swissgrid-Daten),,Stromkennzeichnung > detailliert von 2010 bis 2018 als Excel File,,https://www.stromkennzeichnung.ch,,,,als Excel-File vorhanden,,
+Sonnendach,Sonnenenergie,PV Potenzial,,https://www.uvek-gis.admin.ch/BFE/sonnendach/?lang=de,,,,,,
+Swisssolar,Sonnenenergie,Solaranlagenverzeichnis,,https://www.swissolar.ch/ueber-solarenergie/solaranlagenverzeichnis/,,,,,,
+"Forschungsprogramm Energie, Wirtschaft Gesellschaft BfE",,,,,,,,,,
+GeoImpact,Sonnenenergie,"Solarpotenzial 
+ Gebäudedaten (Baujahr, Renovationsjahr, Fläche, Anzahl
+     Wohnungen etc.)
+ Parzellendaten
+ Unternehmensregister
+ Stromtarife Elcom
+ Etc.
+
+
+für die Städte Aarau, Bremgarten und Rheinfelden",,https://www.dropbox.com/sh/8bqjhk4c3gz265s/AAAvk9G5ZTo30rFD1K-voT6Ja?dl=0,,,,Daten in Dropbox hinterlegt,,
+SolarCampus: Tachion (Stephan Mathez),Sonnenenergie?,,,,,,,,,
+Vela Solaris (Polysun),Sonnenenergie?,,,,,,,,,
+PSI (H.Panos),?,,,,,,,,,
+Protoscar/EVTec,?,,,,,,,,,
+SUPSI,?,,,,,,,,,
+"Daten aus ""Swiss2grid"" Programm",Swiss2grid,,,http://www.s2g.ch/?lang=en,,,,,,
+opendata Swiss,,,,https://opendata.swiss/de/,,,,,,
+,,,,,,,,,,
+GeoAdmin.ch,Wind Potential CH,,,https://data.geo.admin.ch/ch.bfe.windenergie-potenzialgebiete/,,,,,,
+GeoAdmin.ch,Heat Demand Housholds and Services Switzerland,,,https://map.geo.admin.ch/?layers=ch.bfe.fernwaerme-nachfrage_wohn_dienstleistungsgebaeude&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers_opacity=0.75&E=2646117.76&N=1248467.56&zoom=9,,,,,,
+GeoAdmin.ch,Heat Demand Industry Switzerland,,,https://map.geo.admin.ch/?layers=ch.bfe.fernwaerme-nachfrage_industrie&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers_opacity=0.75&E=2635764.95&N=1240153.35&zoom=8,,,,,,
+GeoAdmin.ch,"Wärmenetz, district heating, supply",,,https://map.geo.admin.ch/?layers=ch.bfe.fernwaerme-angebot&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2633441.18&N=1267797.30&zoom=5,,,,,,
+GeoAdmin.ch,"Wärmenetz, district heating",,,https://map.geo.admin.ch/?layers=ch.bfe.thermische-netze&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2625581.05&N=1267348.71&zoom=6,,,,,,
+GeoAdmin.ch,catalog,Katalog aller Daten,,https://www.geo.admin.ch/de/geoinformation-schweiz/verzeichnis-inspire/energie-und-wirtschaft/energiequellen.html,,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch,,
+GeoAdmin.ch,catalog,Katalog aller Daten,,"http://www.bfe.admin.ch/geoinformation/05061/index.html?lang=de
+",,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch,,
+GeoAdmin.ch,,Download,,"https://opendata.swiss/en/dataset?organization=bundesamt-fur-energie-bfe&q=ch.bfe
+",,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch,,
+GeoAdmin.ch,,Download,,"https://data.geo.admin.ch/
+",,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch,,
+GeoAdmin.ch,catalog,Energiedaten,,"https://www.geo.admin.ch/de/geoinformation-schweiz/verzeichnis-inspire/energie-und-wirtschaft/energiequellen.html
+
+http://www.bfe.admin.ch/geoinformation/05061/index.html?lang=de
+
+",,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch,,
+GeoAdmin.ch,catalog,Datenviewer,,"https://map.geo.admin.ch/?lang=en&topic=energie
+",,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch,,
+GeoAdmin.ch,Hydrological Data,,,https://data.geo.admin.ch/ch.bafu.hydrogeologie-uebersichtskarte/,,,,,,
+GeoAdmin.ch,Zugverkehr,Schienendaten,,https://data.geo.admin.ch/ch.bav.schienennetz/,,,,,,
+Opentransportdata.ch,Zugverkehr,"Stationsnamen und Haltestellen
+Anzahl GA und Halbtax bis ins Jahr 2017
+GTFS Realtime
+Fahrpläne
+",,https://opentransportdata.swiss/de/,,,,,,
+Geocat.ch,,,,https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/home,,,,,,
+AEW,Lichtwellenleiter,AEW Leitungskataster Lichtwellenleiter,,,,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen",,
+AEW,Fernwärme,AEW Leitungskataster FErnwärme,,,,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen",,
+AEW,Strom,AEW Leitungskataster Strom,,,,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen",,
+,Windatlas,Windatlas Schweiz (50m und 100m über Grund),,,,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen",,
+,Bike,Bikesharing und Veloverleihsysteme,,,,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen",,
+,Sonnenenergie,Eignung von Hausdächern für Nutzung von Sonnenenergie,,,,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen",,
+,,,,,,,,,,
+different sources,Smart Meter,Smart Meter Data Sets,,https://github.com/smda/smart-meter-data-catalog,,,,,,
+different sources,Smart Meter,Smart Meter Data Sets,,https://www.kaggle.com/jeanmidev/smart-meters-in-london,,,,,,
+different sources,Smart Meter,Smart Meter Data Sets,,https://data.gov.uk/search?q=smart+meter,,,,,,
+different sources,housholds,"Messdaten von Haushalten in Süddeutschland, zum Teil bis auf Ebene Geräte aufgeschlüsselt",,https://data.open-power-system-data.org/household_data/,,,,,,
+different sources,catalog,overview of different open energy data sets,,https://en.wikipedia.org/wiki/Open_energy_system_databases,,,,,,
+,,,,,,,,,,
+Footprintnetwork,CO2,World wide data about footprints of nations,,https://www.footprintnetwork.org/,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+OpenStreetMap,Karten,,,https://osm.ch/,,,,,,
+OpenStreetMap,Karten,,,https://www.openstreetmap.org/,,,,,,
+,,,,,,,,,,
+Jasm SCCER,?,?,,https://data.sccer-jasm.ch/,,,,,,
+,,,,,,,,,,
+Swissgrid,Energieübersicht Schweiz,"Energieübersicht Schweiz: monatliche Daten zu Produktion, Verbrauch, Endverbrauch",,https://www.swissgrid.ch/de/home/operation/grid-data/generation.html,,,,Daten in XLS,,
+Swissgrid,Netzkennzahlen,"Netzkennzahlen (Frequenz, Importe, Exporte, Wide Area Monitoring)",,https://www.swissgrid.ch/de/home/operation/grid-data/current-data.html,,,,Daten in XLS,,
+Swissgrid,Uebertragung,"Uebertragung (Importe, Exporte, Verluste)",,https://www.swissgrid.ch/de/home/operation/grid-data/transmission.html,,,,Daten in XLS,,
+Swissgrid,Netzdaten allg,Netzdaten allg,,https://www.swissgrid.ch/de/home/operation/grid-data.html,,,,,,
+Swissgrid,Energie Tarife,Tarife und Vergütungssätze für das Uebertragungsnetz,,https://www.swissgrid.ch/de/home/customers/topics/tariffs.html,,,,PDF,,
+Swissgrid,Frequenz,Frequenzstatistik 2003 bis 2018,,https://www.swissgrid.ch/de/home/customers/topics/frequency-statistic.html,,,,PDF,,
+,,,,,,,,,,
+Geoportal Kt. Aargau,Geographie,Onlinekarten,,https://www.ag.ch/de/dfr/geoportal/geoportal.jsp,,,,Nur onlinekarten > relevante Datensätze (siehe Zeile 78) liegen vor,,
+Geoportal Kt. Aargau,Kadaster & Netze,"Agglomerationen und Einzelstädte CH, 1:2'000'000
+Agglomerationsprogramm 1.Generation Verkehrslinien
+Agglomerationsprogramme 1.Generation: Knoten, Haltestelle und ESP
+Agglomerationsprogramme 1. Generation: Verkehrsmanagement
+Aggloprogramme 2. Generation: Verkehr (Flächen)
+Aggloprogramme 2. Generation: Verkehr (Linien)
+Aggloprogramme 2. Generation: Verkehr (Punkte)
+Aggloprogramme 3. Generation: Verkehr (Flächen)
+Aggloprogramme 3. Generation: Verkehr (Linien)
+Aggloprogramme 3. Generation: Verkehr (Punkte)
+Bahnlinien
+Buslinien
+Gemeindegrenzen
+Generalisierte Agglomerationenund städtische Kerne (1:300'000 bis 1:600'000)
+Hochspannungsleitung (geplant) Richtplan
+Kraftwerke
+Nationalstrassen Anschluss/Halbanschluss Richtplan
+Netz Kantonsstrassen undNationalstrassen
+Netzgebietszuteilung NE7
+Netzgebietszuteilung Punktuelle Ausnahmen
+öV-Haltestellen
+Park+Pool
+Park+Ride (P+R)
+Parkplätze
+Radroutennetz, definitive Linienführung der kantonalen Radrouten (Richtplan)
+Richtplan Gesamtkarte (TIFF)
+Risikokataster (Mobile Risiken): Durchgangsstrassen
+Risikokataster (Mobile Risiken): Eisenbahnen
+Risikokataster (Mobile Risiken): Gasleitungen
+Risikokataster (Mobile Risiken): Nationalstrassen
+Risikokataster (Stationäre Risiken): Betriebsareale
+Risikokataster (Stationäre Risiken): Chemiebetriebe
+Schienennetz: Kilometrierungslinien (siehe unter GeoAdmin.ch ""Schienendaten"")
+Schienennetz: Knoten (siehe unter GeoAdmin.ch ""Schienendaten"")
+Schienennetz: Netzsegmente (siehe unter GeoAdmin.ch ""Schienendaten"")
+Solarkataster
+Solarpotenzial pro Gemeinde
+Sonneneinstrahlung (TIFF)
+Starkstromleitungen ab LK25
+Strassennetz im EGM05-Raum
+Strassennetz TomTom: Eisenbahn (Railways)
+Strassennetz TomTom: Postleitzahlen
+Strassennetz TomTom: Strassenlinien
+Strassenverkehrszählungen/StrassenbelastungsplanMIV
+Versorgungsrouten
+Volkszählungsdaten 2012, Gesamtbevölkerung auf Hektarbasis
+Volkszählungsdaten 2014, Statistik der Bevölkerung - Sammelhektare pro Gemeinde für Personen ohne Adresse
+3D Gebäude
+Gebäude ab Übersichtsplan 1:5000
+Gebäude- und Wohnungsstatistik 2015 - Sammelhektare pro Gemeinde für nicht genau lokalisierbare Gebäude mit Wohnnutzung
+Gebäude- und Wohnungsstatistik 2015 auf Hektarbasis
+Gebäude- und Wohnungsstatistik 2016 - Sammelhektare pro Gemeinde für nicht genau lokalisierbare Gebäude mit Wohnnutzung
+Gebäude- und Wohnungsstatistik 2016 auf Hektarbasis
+",,https://www.ag.ch/geoportal/geodatenshop/download/Bestellung_15503_61694_131928858894705535.zip,,,,"Daten wurden ""beschafft"" und liegen als Shape File vor (SmartUse hat sie ""angepasst"")
+zur Not können sie über den Hyperlink noch heruntergeladen werden",,
+Geoportal Kt. Aargau,Gebäude,Gebäudeadressen GEOPOST,,https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register/CSV/CH/CH.zip,,,,ganze Schweiz,,
+,,,,https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register/CSV/meta.txt,,,,Kantonale Kommunale Teil-Downloadliste,,
+,,,,,,,,,,
+EnergyMap,Stromproduktion,"Energiekarte, aktuelle Stromproduktion aus EE ",,http://www.energymap.info,,,,,,
+EnergyMap,Energie Regionen,Energieregionen,,,,,,,,
+EnergyMap,,"Downloadbereich / das amtliche Anlagenregister; Rohdaten Netzbetreiber aus D / Installierte PV Anlagen in Deutschland; inkl. Adresse (d.h. Geo-Codierbar) / Insgesamt >1 Mio. Datensätze
+",,http://www.energymap.info/download.html,CSV,,,> 1mio Datensätze,,
+,,,,,,,,,,
+Electricitymap.org,Stromproduktion,"eine Karte, die für über 131 Regionen weltweit und in Echtzeit die Stromproduktion (inkl. Import und Export) und deren CO2-Intensität abbildet",,https://www.electricitymap.org,,,,,,
+Electricitymap.org,,,,"https://api.electricitymap.org/
+http://static.electricitymap.org/api/docs/index.html",,,,API Schnittstelle > wird hergestellt > Oleg?,,
+Electricitymap.org,,Public Data / Flow Traced Data / Marginal Data,,https://data.electricitymap.org,,,,,,
+Electricitymap.org,,"Schnittstelle zu Datenbasis von ElectricityMap und deren ""Datenpartnern""",,,,,,API Schnittstelle > wird hergestellt > Oleg?,,
+,,,,,,,,,,
+IEEE PES,consumption,"Consumption Data
+
+Private Homes
+Offices
+Commercial
+Water Heater
+Refrigerator",,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Elektromobilitàt,"Electric Vehicles
+
+Database with scenario",,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Power quality,Power Quality,,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Photovoltaik,PV Generation,,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Power reliabilityty,Reliability,,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,wetter,Weather Data,,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Wind,"Wind based Generation (Data base includes the values of the wind speed, recorded with time intervals of 10min)",,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+,,,,,,,,,,
+NIALM (Non-instrusive Appliance Load Monitoring), Catalog energy consumption,"Public data sets on household energy consumption data into individual 
+appliances, also known as Non-intrusive Appliance Load Monitoring (NIALM) or 
+energy disaggregation
+
+Almanac of Minutely Power Dataset
+Berkeley Energy Disaggregation Dat Set
+Controlled On/Off Loads library dataset
+Dataport database
+Dutch Residential Energy Dataset
+Electricity Consumption & Occupancy data set
+GREEND Dataset
+Household Electricity Use Study
+EDF Individual household electric power consumption data set
+Smart Home Data Set
+REFIT Electrical Load Measurements dataset
+UK Domestic Appliance Level Electricity dataset",,http://blog.oliverparson.co.uk/2012/06/public-data-sets-for-nialm.html,,,,,,
+,,,,,,,,,,
+SwissRe,Catastrophes / re-insurance,"Sigma Explorer
+- regional market structures and long-term premium growth trends in the global re/insurance industry
+- interactive sigma explorer tool to visualise and share historical data about natural and man made catastrophes, the number of lives lost and world re/insurance premiums going as far back as 1970",,http://www.sigma-explorer.com/,,,,noch in Abklärung,,
+SwissRe,Catastrophes / re-insurance,,,https://www.swissre.com/institute/research/sigma-research.html,,,,,,
+,,,,,,,,,,
+EnergyData.Info,Energy by country,Data Sets by Countries,,https://energydata.info/dataset,,,,,,
+Data.gov.uk,Smart meter,different and various data sets,,https://data.gov.uk/search?q=smart+meter,,,,,,
+OpenEi.org,Smart grid,different and various data sets,,https://openei.org/datasets/dataset?sectors=smartgrid ,,,,,,
+BfE DIEMO,Elektromobilität,"Nationale Daten-Infrastruktur (DIEMO) für eine verbesserte Sichtbarkeit von Ladeinfrastruktur­informationen (z.B. Standort, Zugang, Stecker-Typen). Mit DIEMO wird erreicht, dass Daten zur Ladeinfrastruktur der Schweiz im Sinne von Open Data einheitlich, diskriminierungsfrei, in hoher Qualität und kostenlos zur Verfügung stehen. Durch die direkte Anbindung der Ladeinfrastrukturbetreiber an die Bundesgeodateninfrastruktur entsteht eine Datengrundlage von hoher Qualität und wird auch die Bereitstellung dynamischer Daten möglich (Verfügbarkeit der Ladestationen).",,"
+
+https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/ch.bfe.ladestellen-elektromobilitaet.json
+
+",,,,Live Demo-Daten,,
+BfE DIEMO,Catalog,,,"
+
+https://www.geocat.ch/geonetwork/srv/ger/catalog.search#/metadata/deb77904-21ff-4ff4-b53d-b6ddb4615168
+
+",,,,Metadaten,,
+,,,,,,,,,,
+National Renewable Energy Laboratory,USA Energy production / consumption / Grid / future technologies,"US Fact/Statistics 
+
+Production
+Consumption (by sector)
+Grid data
+future technologies",,https://data.nrel.gov/submissions/all,,,,,,
+,,,,,,,,,,
+Enerdata,CO2 - energy - global,"EnerMonthly (Monthly Energy Database
+Global Energy and CO2 Data
+Global Energy Forecasts
+Marginal Abatement Cost Curves",,https://www.enerdata.net/research/,,,,,,
+,,,,,,,,,,
+Worldbank,energy by country,General Datasets about countries and regions,,"https://datacatalog.worldbank.org/
+
+",,,,,,
+Worldbank,energy by country,General Datasets about countries and regions,,https://data.worldbank.org/,,,,,,
+Pecan Street Data Port,residential energy and water data,"Dataport provides access to a variety of residential energy and water data collected through Pecan Street’s research network, including:
+
+whole-home and circuit-level energy use; one-second circuit-level energy use; HVAC use; refrigerator and other appliance use; electric vehicle charging behavior; solar generation; real power, apparent power, THD, voltage, phase angle data; sub-minute whole-home water use; household demographic and home survey data",,"https://www.pecanstreet.org
+https://www.pecanstreet.org/dataport/",,,,beim Dataport ist eine Anmeldung notwendig! > Andre und/oder Oleg könnt Ihr das übernehmen? Am besten Anmeldung mit einem Hochschul-Account > dann haben wir Zugriff auf alle Daten!,,
+Pecan Street,Climate Data,"Own data sets and various third party data sets such as:
+artic regions (ice thickness,...), Climate Data NASA, Climate Dta NOAA, coastal floodings,  power plant generation and emission, Climate/Health",,https://www.pecanstreet.org/dataport/about/,,,,,,
+,,,,,,,,,,
+Swisscom OpenData,Mobilität / Fahrten / Mobilenetze,"Mobilität (Fahrten auf Autobahnen, Reisedistanzen pro Tag
+Kommunikation (Breitbandanschlüsse in Gemeinden, Heatmaps, 
+Netzwerk
+",,https://opendata.swisscom.com/explore/?sort=title&refine.language=de,,,,,,
+,,,,,,,,,,
+Sonnendach.ch,Sonnenenergy,Solarpotenzial in der Schweiz (Dach für jede Schweizer Gemeinde),https://map.geo.admin.ch/?layers=ch.bfe.solarenergie-eignung-daecher&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2645915.44&N=1248328.00&zoom=11,"https://map.geo.admin.ch/?lang=de&topic=energie&bgLayer=ch.swisstopo.swissimage&catalogNodes=2419,2420,2427,2480,2429,2431,2434,2436,2767,2441,3206&layers=ch.bfe.solarenergie-eignung-daecher",,,,,,
+,Sonnenenergy,Solarpotenzial in der Schweiz (Fassaden für jede Schweizer Gemeinde),"https://map.geo.admin.ch/?layers=ch.bfe.solarenergie-eignung-daecher,ch.bfe.solarenergie-eignung-fassaden&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2645915.44&N=1248328.00&zoom=11&layers_visibility=false,true",,,,,,,
+,,,,,,,,,,
+europäische Uebertragungsnetzbetreiber ,,,,,,,,,,
+    Amprion,Netzkennzahlen,"Netzkennzahlen (Erzeugung, Erzeugung in Regelzone, Grenzüberschreitende Lastflüsse, Lastverlauf, PV-Einspeisung, Windenergieeinspeisung, vertikale Netzlast)",,https://www.amprion.net/Netzkennzahlen/,,,,,,
+,,,,,,,,,,
+    TransnetBW,Netzkennzahlen,"Kennzahlen (Einspeisung Wind, Einspeisung Photovoltaik, EEG Intraday, Differenz Einspeisungsprognose zu vermarkteter Menge)
+",,https://www.transnetbw.de/de/transparenz/marktdaten/kennzahlen,,,,Homepage > ,,
+    TransnetBW,,"Strukturdaten (Strukturdaten, Netzverluste)",,,,,,,,
+    TransnetBW,,"Strommarkt (Regelenergie Bedarf/Abruf, Abschaltbare Lasten, Netzreserve, Kapazitätsreserven)",,https://www.transnetbw.de/de,,,,Homepage > Strommarkt > ....,,
+    50Hertz,,,,,,,,,,
+    Energinet,Energy Data Denmark ,"Energy Data (Denmark) Production and Consumption, Whole Sale Market, Ancillary Services, Transmission lines, CO2 Emissions, Gas",,"https://en.energinet.dk/Electricity/Energy-data
+
+https://www.energidataservice.dk/en/",,,,On this page you can find raw data and statistics or energy data provided by other players in the electricity market (Focus on Denmark),,
+    Energinet,Energy Data Denmark Hub,Data Hub (Denmark),,https://en.energinet.dk/Electricity/DataHub,,,,,,
+,,,,,,,,,,
+    RTE,Netzkennzahlen Energy Frankreich,"Generation (Forecast, Storage Park, Actual Generation, installed Capac)
+Consumption (consolidated, demand response, Physical Showcases, tempo like supply contract)
+Market (demand response signal, imbalance reconstitution, balancing capacity, wholesale Market, balancing energy, consumption control measure, ...)",,https://data.rte-france.com/catalog/all_categories,,,,"API muss beantragt werden!! > Andre und/oder Oleg, könnt Ihr das übernehmen?",,
+,,,,,,,,,,
+    TennetTSO,,,,https://www.tennet.eu/de/#&panel1-1,,,,,,
+    Elia,Netzkennzahlen Energy belgium,"Load
+Interconnection
+Generation
+Balacing",,http://www.elia.be/en/grid-data/data-download,"CSV, Excel",,,,,
+    Elia,Grid Energy belgium,"Grid technical Data
+Map High voltage grid",,http://www.elia.be/en/grid-data/Grid-Technical-Data,"Excel, PDF",,,,,
+,,,,,,,,,,
+    Transparency.Entsoe.eu,Uebertragungsnetzbetreiber,"Transparenzplattform der europäischen Uebertragungsnetzbetreiber
+",,https://transparency.entsoe.eu/dashboard/show,,,,,,
+    Transparency.Entsoe.eu,Europe Electricity market,"Load (Total Load Day ahead, Total Load Forecast (month, week, year, margin)",,https://transparency.entsoe.eu/dashboard/show,,,,,,
+    Transparency.Entsoe.eu,Europe Electricity market,"Generation (installed capacity, water reservoirs and hydro storage plants, actual generation by type, actual generation per unit, forecast wind and solar)",,https://transparency.entsoe.eu/dashboard/show,,,,Energy Production and production forecast,,
+    Transparency.Entsoe.eu,Europe Electricity market,"Transmission (scheduled commercial exchange, cross border physical flow, day ahead price, forecast transfer capacities (day, week, month, year)",,https://transparency.entsoe.eu/dashboard/show,,,,Data about power transfers over borders between areas,,
+    Transparency.Entsoe.eu,Europe Electricity market,"Balancing (accepted offers, volumes of contracted balancing reserves, imbalance, cross border balancing)",,https://transparency.entsoe.eu/dashboard/show,,,,Data about regulation energy used to keep the electrical transmission grid in balance,,
+    Transparency.Entsoe.eu,Europe Electricity market,Outages,,https://transparency.entsoe.eu/dashboard/show,,,,Data about planned maintenence and failures inside the electrical transmission grid,,
+    Transparency.Entsoe.eu,Europe Electricity market,"Congestion Management (Countertrading, Redispatching internal, Redispatching cross border)",,https://transparency.entsoe.eu/dashboard/show,,,,Data about actions taken to relieve overloaded parts of the electrical transmission grid,,
+    Transparency.Entsoe.eu,Energy Data by country,"Data 2011 bis 2015 by country (Cross Border commercial schedule, cross border physical flow, year ahead NTC, Balance Management, Total load)",,https://transparency.entsoe.eu/dashboard/show,"XML, XLSX",,,,,
+,,,,,,,,,,
+    EntSOE,Europe electricity grid map,Grid Map,,https://www.entsoe.eu/data/map/,,,,Website des Verbandes der europäischen Übertragungsnetzbetreiber,,
+    EntSOE,,Transparency Plattform (see above),,,,,,,,
+    EntSOE,,"Power Statistics by Country (monthly domestic values, net generating capacity, Metadata Repository, physical energy & power flows, inventory of transmission, monthly hourly load values, inventory of generation)",,https://www.entsoe.eu/data/power-stats/,,,,,,
+    EntSOE,,Outlook Reports by country,,https://www.entsoe.eu/outlooks/seasonal/,"XLSX, PDF",,,Winter and summer outlooks since 2009,,
+    EntSOE,,"IT Plattforms (Links to Transparency, Common Grid Model, ",,https://www.entsoe.eu/data/it-platforms/#,,,,,,
+    EntSOE,,"Statistics and Data (monthly statistics reports, electricity in Europe, Statistical yearbooks, statistical factsheets, annual statistics, load values)",,https://www.entsoe.eu/publications/statistics-and-data/,,,,Online Application Portal for Network Datasets also available,,
+,,,,,,,,,,
+    Netztransparenz.de,,Informationsplattform der deutschen Uebertragungsnetzbetreiber,,https://www.netztransparenz.de/,,,,,,
+    Netztransparenz.de,,Links zu Informationsplattformen,,https://www.netztransparenz.de/Allgemeines/Informationsplattformen,,,,,,
+    Netztransparenz.de,,Archivdaten der bisherigen EEX-Transparenzplattform für die Jahre 2013 und 2014,,https://www.netztransparenz.de/EU-Transparenzverordnung/Archivdaten-der-bisherigen-EEX-Transparenzplattform,ZIP,,,,,
+    Netztransparenz.de,Sonnenenergy Deutschland,"Solarenergie Prognose der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",,https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Solarenergie-Prognose,CSV,,,,,
+    Netztransparenz.de,Wind Energie Deutschland,"Windenergie Prognose der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",,https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Windenergie-Prognose,CSV,,,,,
+    Netztransparenz.de,Sonnenenergy Deutschland,"Solarenergie Hochrechnung der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",,https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Solarenergie-Hochrechnung,CSV,,,,,
+    Netztransparenz.de,Wind Energie Deutschland,"Windenergie HOchrechnung der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",,https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Windenergie-Hochrechnung,CSV,,,,,
+,,,,,,,,,,
+    Intraday Capacity,Transfer capacity Europe,Available Transfer Capacity (Europe),,https://www.intraday-capacity.com/php/main.php,,,,,,
+,,,,,,,,,,
+    Tschet.eu,,,,https://www.tscnet.eu/,,,,Informationsplattform der Transmission System Operator Security Cooperation (TSC).,,
+,,,,,,,,,,
+,,,,,,,,,,
+Cities/Municipalities,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Zürich,catalog Zürich,"Bevölkerung (Linked open statistical Data, Daten ZüriZahlen App)
+Bauen und Wohnen (Fernwärmegebiete, Gasrückzugsgebiete, Linked Open statistical data)
+Mobilität (Standorte autom.Zählgeräte, Linked open statistical Data, Daten Velozählstelle,...)
+Umwelt
+Energie (Linked open statistical data, Beleuchtung, Wasser-&Gasversorgung)
+",,https://data.stadt-zuerich.ch/,"wms, wfs, json, xml, pdf, csv, kmz, gpkg",,,,,
+Basel,catalog Basel,"Raum & Umwelt (Eigenproduktion Strom, Energieeffizienz, Energiepreise CH, ....)
+Bevölkerung
+Energie (Stromverbrauch nach EnergieTräger, spez.Heizenergieverbr., neue erneuerbare Energien, Stromverbrauch pro Einwohner)
+Mobilität & Verkehr (Verkehrsleistungsindex, Motorfahrzeuge, Verkehrszähldaten,",,https://opendata.swiss/de/organization/kanton-basel-stadt,,,,,,
+Basel,catalog Basel,"Anwendungen (Datenvisualisierungen > Stadtplan, Pegel, Statistikkarten, Quartierindex, MapBS, Dräggwägg,...))
+Datenkatalog (Link auf opendata.swiss > see above)",,http://www.staatskanzlei.bs.ch/oeffentlichkeitsprinzip/ogd.html,,,,,,
+Bern,catalog Bern,"Statistik
+Bevölkerung (Haushalte, demographische Merkmale, Prognosen....)
+Volkswirtschaft (Volkseinkommen, GDP/BIP)
+Energie (Gas-&Wasserversorgung, KVA, FErnwärme, Elektrizitätswerk)
+Mobilität (Verkehrszählungen, Motorfahrzeuge, öV, Strassennetz)",,https://www.bern.ch/open-government-data-ogd/ogd-nach-themen,"excel, PDF",,,,,
+Bern,geodaten / immobilien,"Geodaten
+Immobilien",,https://www.bern.ch/open-government-data-ogd/ogd-nach-themen,,,,,,
+München,catalog München,Bevölkerung /Transport/Verkehr / Umwelt/Klima/ Geobasisdaten /Infrastruktur,,https://www.opengov-muenchen.de/,"csv, json",,,,,
+Stuttgart,catalog Stuttgart,Verkehr,,https://www.openvvs.de/,,,,,,
+Stuttgart,Geoportal Stuttgart,"Testdaten:
+Liegenschaftskataster
+Fahrradkarte
+Luftbilder
+Stadtplan/Stadtkarte
+Stuttgart 3D
+",,https://www.stuttgart.de/geoportal,,,,,,
+Berlin,catalog Berlin,Home/Uebersicht,,https://daten.berlin.de/datensaetze,,,,,,
+Berlin,Geoportal Berlin,"Geographie und Stadtplanung
+Gemarkungen
+Katasterinformationen
+Gewässer und Vegetationsflächen/Linien
+INSPIRE Datenmodell",,https://daten.berlin.de/kategorie/geographie-und-stadtplanung,,,,,,
+Berlin,Versorgung Berlin,"Ver- und Entsorgung (2008 bis 2018)
+Netzverluste
+Stromausfälle
+Standardlastprofile (Gewerbe, ...)
+Einspeisung dezentrale Anlagen
+Einspeisung benachbarte Netze gleiche NEtzebene 
+Entnahmen der Letztverbraucher (Differenzbilanzierung)
+Jahreshöchstlast, Lastverlauf
+Netzeinspeisung BHKW, WKK
+Testdaten Stromausfall Energyhack
+Tagesparameterabhängiges Lastprofil Wärmepumpen
+Summe EInspeisung Hochspannung
+Summe Einspeisung Niederspannung
+Preisblatt Netznutzung
+Fahrplanprognosen Standardlastkunden
+Web Service Last und Erzeugung 15min
+....",,https://daten.berlin.de/kategorie/ver-und-entsorgung,,,,,,
+Berlin,verkehr Berlin,"Verkehr
+Verkehr und Personenaufkommen (Parkplatzbelegung, Bewegungsdaten)
+eMobility Ladestationen
+öV Linien
+öV Fahrplan
+Smart City Berlin Ernst Reuter Platz",,"https://daten.berlin.de/kategorie/verkehr
+
+http://flow.dai-labor.de/datasets/",Fahrplandaten via API und GTFS,,,,,
+Berlin,Energieatlas Berlin,Energieatlas Berlin,,https://daten.berlin.de/datensaetze/energieatlas-berlin,,,,,,
+,,,,,,,,,,
+Datenquellen,,Kurzbeschreibung,Status of Data Set,URL,Portal URL,,,zusätzliche Hinweise und Kommentare,,File Name
+,,,,,,,,,,
+"Senozon
+Daten Verkehrsfluss Kt. Aargau (Arbeit, priv., öV, MIV, Fuss)
+DIEMO-Daten
+FZ Zulasungsdaten Aargau und CH > Entwicklung Marktdurchdringung
+Daten Masterplan Elektromobilität
+Daten BfE Programm ""GeoGreen""
+Daten BfE Programm ""Swiss2grid""",,"Einwohnerzahlen
+Verkehrsmengen
+Verkehrsflüsse
+Mikrozensus
+Fahrzeugzulassungen",,,,,,,,
+Nationale Dateninfrastruktur Elektromobilität (DIEMO),elektromobilität,"Rund 35% des Energieverbrauchs der Schweiz entfallen auf die Mobilität. Der Mobilitätsbereich ist aktuell zu über 95% von fossilen Energieträgern abhängig. Grundsätzlich strebt der Bundesrat im Bereich des motorisierten Individualverkehrs eine generelle und technologieneutrale Energieeffizienzsteigerung an, die jedoch in das übergeordnete Ziel einer nachhaltigeren Mobilität eingebettet sein muss. Die Elektromobilität bietet die Chance, einen Beitrag zu einer nachhaltigeren Mobilität zu leisten. Mit der Elektromobilität ist eine Schlüsseltechnologie zur Erreichung ambitionierter energie- und klimapolitischer Ziele vorhanden. Elektroantriebe sind effizient und der Einsatz von Strom erlaubt die Nutzung erneuerbarer Energien.Die nationale Daten-Infrastruktur Elektromobilität (DIEMO) bezweckt, dass Daten zur Ladeinfrastruktur der Schweiz im Sinne von Open Data einheitlich, in hoher Qualität und kostenlos zur Verfügung stehen. Dazu harmonisiert und aggregiert DIEMO Daten verschiedener Betreibenden von Ladeinfrastruktur und stellt ein Gesamtbild der Ladestellen zur Verfügung.",,https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/ch.bfe.ladestellen-elektromobilitaet.json,,,,,,
+,,,,,,,,,,
+,elektromobilität,Lemnet Ladestationspunkte,,https://www.lemnet.org/de/downloads,,,,,,
+,elektromobilität,eMobile,,?,,,,,,
+,elektromobilität,Swisscharge,,?,,,,,,
+,elektromobilität,Schnellladen.ch,,?,,,,,,
+,,,,,,,,,,
+,elektromobilität,"DIEMO Plattform -> Nationale Daten-Infrastruktur (DIEMO) für eine verbesserte Sichtbarkeit von Ladeinfrastruktur­informationen (z.B. Standort, Zugang, Stecker-Typen). Mit DIEMO wird erreicht, dass Daten zur Ladeinfrastruktur der Schweiz im Sinne von Open Data einheitlich, diskriminierungsfrei, in hoher Qualität und kostenlos zur Verfügung stehen. Durch die direkte Anbindung der Ladeinfrastrukturbetreiber an die Bundesgeodateninfrastruktur entsteht eine Datengrundlage von hoher Qualität und wird auch die Bereitstellung dynamischer Daten möglich (Verfügbarkeit der Ladestationen).",,?,,,,Live Demo-Daten,,
+,Strombverbrauch,Faktenblatt Strombverbrauch Elektrogeräte,,https://www.newsd.admin.ch/newsd/message/attachments/46117.pdf,,,,,,
+,Strombverbrauch,Stromverbrauch Haushaltsgeräten,,https://www.stromspiegel.de/stromspar-tipps/strom-sparende-haushaltsgeraete/,,,,,,
+,Strombverbrauch,Stromverbrauch im Haushalt,,https://www.stromverbrauch-haushalt.de/haushaltgeraete-stromverbrauch.html,,,,,,
+,Strombverbrauch,Elektronikgeräte,,http://www.energie.ch/elektronikgeraete,,,,,,
+,,Anwenderhandbuch GEAK online Tool (GEAK User Manual 4.0.2),,https://docplayer.org/25877609-Anwenderhandbuch-zum-geak-online-tool.html,,,,,,
+,,GEAK Handbuch,,?,,,,als PDF verfügbar,,
+,Home-energy,Solar & Battery Combined System,,https://github.com/birdie82/homeenergy,,,,,,
+BENEnergy,Haushalten,"Datensätze von Haushalten aus der Schweiz zu 37 Eigenschaften (z.B. Einstellung,
+Haushaltsgrösse, Solaranlage); anonymisiert - keine Adresse
+
+--
+Insgesamt ca. 5'500 Datensätze",,https://bit.ly/2GcK5Lq,,,,,,
+,,,,,,,,,,
+IEEE PES,Consumption appliances  Geräte,"Consumption Data
+
+Private Homes
+Offices
+Commercial
+Water Heater
+Refrigerator",,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Elektromobilität,Electric Vehicles Database with scenario,,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Power quality,Power Quality,,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Photovoltaik,PV Generation,,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Power reliybility,Reliability,,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Wetter,Weather Data,,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,Wind,"Wind based Generation (Data base includes the values of the wind speed, recorded with time intervals of 10min)",,http://sites.ieee.org/pes-iss/data-sets/,,,,,,
+IEEE PES,,,,,,,,,,
+,catalog household consumption,"Public data sets on household energy consumption data into individual 
+appliances, also known as Non-intrusive Appliance Load Monitoring (NIALM) or 
+energy disaggregation
+
+Almanac of Minutely Power Dataset
+Berkeley Energy Disaggregation Dat Set
+Controlled On/Off Loads library dataset
+Dataport database
+Dutch Rersidential Energy Dataset
+Electricity Consumption & Occupancy data set
+GREEND Dataset
+Household Electricity Use Study
+EDF Individual household electric power consumption data set
+Smart Home Data Set
+REFIT Electrical Load Measurements dataset
+UK Domestic Appliance Level Electricity dataset",,http://blog.oliverparson.co.uk/2012/06/public-data-sets-for-nialm.html,,,,,,
+AEW VEiN ,Strom Rheinfelden,Datensätze aus Rheinfelden,,https://github.com/birdie82/vein,https://github.com/birdie82/vein,,,,,
+Stadt Bremgarten,Schulgebäude Bremgarten,Datensätze Schulgebäude,,,liegen als ShapeFile und Excel vor,,,,,
+AEW,Haushalten,,,"https://github.com/birdie82/aptblocks
+https://github.com/birdie82/homeenergy",,,,,,
+,,,,,,,,,,
+Stromkennzeichnung,,,,,,,,,,
+Sonnendach,,,,,,,,,,
+ElectricityMap,,,,,,,,,,
+EnergyMap,,,,,,,,,,
+Mieterverband,Lebensdauertabelle Gebäudehülle,Lebensdauertabelle Gebäudehülle,,https://intern.mieterverband.ch/ldt/objekte.php?Gid=4,,,,,,
+Mieterverband,Lebensdauertabelle Heizung Lüftung Klima,Lebensdauertabelle Heizung Lüftung Klima,,https://intern.mieterverband.ch/ldt/objekte.php?Gid=1,,,,,,
+Mieterverband,zentrale Warmwasseraufbereitung,zentrale Warmwasseraufbereitung,,https://intern.mieterverband.ch/ldt/objekte.php?Gid=2,,,,,,
+,GEAK Handbuch,GEAK Handbuch,,,,,,als PDF bereitgestellt,,
+,Faktenblatt Strombverbrauch Elektrogeräte,Faktenblatt Strombverbrauch Elektrogeräte,,https://www.newsd.admin.ch/newsd/message/attachments/46117.pdf,,,,,,
+,Stromverbrauch Haushaltsgeräten,Stromverbrauch Haushaltsgeräten,,https://www.stromspiegel.de/stromspar-tipps/strom-sparende-haushaltsgeraete/,,,,,,
+,Stromverbrauch im Haushalt,Stromverbrauch im Haushalt,,https://www.stromverbrauch-haushalt.de/haushaltgeraete-stromverbrauch.html,,,,,,
+,Elektronikgeräte,Elektronikgeräte,,http://www.energie.ch/elektronikgeraete,,,,,,
+,Anwenderhandbuch GEAK online Tool (GEAK User Manual 4.0.2),Anwenderhandbuch GEAK online Tool (GEAK User Manual 4.0.2),,https://docplayer.org/25877609-Anwenderhandbuch-zum-geak-online-tool.html,,,,,,
+GeoAdmin,,,,,,,,,,
+BENEnergy,,,,,,,,,,
+,Solar & Battery Combined System,Solar & Battery Combined System,,https://github.com/birdie82/homeenergy,,,,,,
+Infos Heizungssysteme,,,,,,,,,,
+Infos Lüftung,,,,,,,,,,
+Gebäudefassadensanierung,,,,,,,,,,
+etc.,,,,,,,,,,
+IEEE PES,"Verbrauchszahlen Hausgeräte, ....","Verbrauchszahlen Hausgeräte, ....",,,,,,,,
+Energydata.Info,,,,,,,,,,
+NIALM,,,,,,,,,,
+,Faktenblatt Strombverbrauch Elektrogeräte,Faktenblatt Strombverbrauch Elektrogeräte,,https://www.newsd.admin.ch/newsd/message/attachments/46117.pdf,,,,,,
+,Stromverbrauch Haushaltsgeräten,Stromverbrauch Haushaltsgeräten,,https://www.stromspiegel.de/stromspar-tipps/strom-sparende-haushaltsgeraete/,,,,,,
+,Stromverbrauch im Haushalt,Stromverbrauch im Haushalt,,https://www.stromverbrauch-haushalt.de/haushaltgeraete-stromverbrauch.html,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,Zugverkehr,Energieverbrauch im Schienenverkehr,,www.bfe.admin.ch/php/modules/enet/streamfile.php?file=000000007371.pdf,,,,,,
+,Energieverbrauch der Verkehrsträger im Vergleich,Energieverbrauch der Verkehrsträger im Vergleich,,https://www.energiestiftung.ch/energieeffizienz-verkehrstraegervergleich.html,,,,,,
+,Zugverkehr,Daten und Fakten zum Energieverbrauch des Schienenverkehrs,,https://www.forschungsinformationssystem.de/servlet/is/342234/,,,,,,
+,Zugverkehr,Umweltschonend mobil,,https://www.allianz-pro-schiene.de/wp-content/uploads/2015/10/umweltschonend-mobil.pdf,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,PPT Daniel Büchel BfE,PPT Daniel Büchel BfE,,,,,,als PDF bereitgestellt,,
+,Verbrauchszahlen Haushaltsgeräte,Verbrauchszahlen Haushaltsgeräte,,,,,,,,
+AEW,,,,https://github.com/birdie82/vein,,,,,,
+AEW,,,,https://github.com/birdie82/aptblocks,,,,,,
+AEW,,,,https://github.com/birdie82/homeenergy,,,,,,
+,,,,,,,,,,
+SBB,catalog SBB Data,Katalog offenen SBB Daten (~60 data packages),,https://data.sbb.ch/pages/home/,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,SBB," spezifische Verbrauchswerte pro Trassenabschnitt und Fahrzeugtypen / Komposition für Personenzüge
+ Meteodaten entlang eines Trassenabschnitts
+ Daten zu den Zugkompositionen und Auslastungsdaten",,,,,,,,
+,allg.,Wetterdaten Meteotest,,,,,,,,
+,,Windpotenzial,,,,,,,,
+,,Sonnendach,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,Bitcoin:,,- Blockchain.info,,,,,,
+,,  - U.S. electricity prices,,"- A. de Vries, ""Bitcoin's Growing Energy Problem"", Joule , Volume 2 , Issue 5 , 801 - 805",,,,,,
+,,  - Miners revenue timeseries,,- bitinfocharts.com,,,,,,
+,,  - Transaction per block timeseries,,- https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a,,,,,,
+,,Elevator:,,"- Jürg Nipkow; Max Schalcher, ""Energy consumption and efficiency potentials of lifts""",,,,,,
+,,  - Power consumption of different elevator types,,"- S. Shahnawaz Ahmed, Asif Iqbal, Rashed Sarwar, Md. Sayeed Salam, ""Modeling the energy consumption of a lift"", Energy and Buildings Volume 71, March 2014",,,,,,
+,,Shower:,,"- H. Hendrickx, Unilever, ""Objective measurement of showering behaviour in the UK and a behavioural intervention to reduce water use in the shower"", Water Efficiency Conference 2015",,,,,,
+,,   - Throughput of different showerheads,,"- Mifflin, M. D., St Jeor, S. T., Hill, L. A., Scott, B. J., Daugherty, S. A., & Koh, Y. O. (1990). A new predictive equation for resting energy expenditure in healthy individuals. The American journal of clinical nutrition, 51(2), 241-247.",,,,,,
+,,Human labor:,,"- Ainsworth, B. E., Haskell, W. L., Herrmann, S. D., Meckes, N., Bassett Jr, D. R., Tudor-Locke, C., ... & Leon, A. S. (2011). 2011 Compendium of Physical Activities: a second update of codes and MET values. Medicine & science in sports & exercise, 43(8), 1575-1581.",,,,,,
+,,  - Jahresenergieverbrauch eines Schweizers timeseries,,"- Ainsworth, B. E., Haskell, W. L., Herrmann, S. D., Meckes, N., Bassett Jr, D. R., Tudor-Locke, C., ... & Leon, A. S. (2011). 2011 Compendium of Physical Activities: a second update of codes and MET values. Medicine & science in sports & exercise, 43(8), 1575-1581.",,,,,,
+,,  - Energie intensities of different human activities,,"- Hagerman, F. C., Lawrence, R. A., & Mansfield, M. C. (1988). A comparison of energy expenditure during rowing and cycling ergometry. Medicine and science in sports and exercise, 20(5), 479-488.",,,,,,
+,,Smartphone:,,- https://www.bfs.admin.ch/bfs/de/home/statistiken/nachhaltige-entwicklung/monet/alle-nach-themen/energie-klima/endenergieverbrauch.html,,,,,,
+,,  - Battery capacities of different smartphone models,,- https://www.theiphonewiki.com/wiki/List_of_iPhones,,,,,,
+,,Train:,,- Wikipedia,,,,,,
+,,  - Energieverbrauch verschiedener Transportarten,,"- Annika Messmer, Rolf Frischknecht, ""Life Cycle Inventories of Rail Transport Services"", Treeze Ltd, 2016, http://treeze.ch/fileadmin/user_upload/downloads/Publications/Case_Studies/Mobility/544-LCI-Rail-Transport-Services-v2.0.pdf",,,,,,
+,,,,,,,,,,
+,,PPT Daniel Büchel BfE,,,,,,,,
+opendata.swiss,,GEOSTAT,1994 – Out of Date; PDF and not “data”; Error on website: “storage item master for 341337 is not yet available”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Umweltausgaben und -investitionen in der Schweiz 1992/93,1996 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,Actually interesting as such,,
+opendata.swiss,,Application of satellite remote sensing for land use statistics,2000 - Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Der ökoindustrielle Sektor in der Schweiz,2000 – Out of Date; PDF and not “data”; Info that not interests anyone anymore expect for historic reasons,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Umweltbezogene Abgaben in der Schweiz 1990-2000,2001 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,The changing face of land use,2001 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Die Bodennutzung in den Kantonen: Graubünden und Tessin,2001 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Die umweltbezogenen Abgaben,2003 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Materialfluss in der Schweiz,2005 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,Actually interesting as such,,
+opendata.swiss,,Materialflussrechnung für die Schweiz,2005 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Arealstatistik Schweiz: Zahlen - Fakten - Analysen,2005 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Treibhausgasemissionen der Wirtschaftsbranchen,2006 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Kantonshöhepunkte der Schweiz,2007 – Not out of date as gepgraphic facts,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Sonderabfälle nach Abfallgruppen,2007 – Out of Date,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Materialflüsse in der Schweiz,2007 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Environmental Accounting,2008 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Materialaufwand der Schweiz,2008 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Greenhouse gas emissions by economiy player,2010 – Out of Date (It compares 1990 to 2005 data); PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,Actually interesting as such,,
+opendata.swiss,,Material flow accounts - Growth in society's stock of materials,2010 – Out of Date (It shows data up to 2007); PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Die grössten Seen und höchsten Berge,2011 – Not out of date as gepgraphic facts,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,The new census,2011 – Out of Daze; PDF and not “data”; This is just an information PDF explaining what the back then new census was; It is anyway at the wrong place under “Raum und Umwelt”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Wahrnehmung von Umweltqualität und Umweltverhalten,2012 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,The results of this survey are quite interesting but not in data format. Maybe some data over time on these same questions?,,
+opendata.swiss,,Durchschnittliche Bodenbelastungen und Richtwertüberschreitungen,2013 – Out of Date (Data up to 2009 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,Actually interesting as such,,
+opendata.swiss,,Land use in Switzerland,2013 – Out of Date; PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,Actually interesting as such,,
+opendata.swiss,,Die grössten Gletscher,2014 – Not out of date as gepgraphic facts,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,"Environmental protection expenditure of enterprises, survey 2003",2014 – Out of Date (Data of 2003 shown - there are also newer survey),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,Actually interesting as such,,
+opendata.swiss,,Jährliche Flächenbeanspruchungen für verschiedene Siedlungskategorien in drei Perioden,2014 – Out of Date (Data up to 1995 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Siedlungsfläche pro Einwohner,2014 – Out of Date (Data up to 1997 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Entwicklung des Gebäude- und Industrieareales im städtischen Raum,2014 – Out of Date (Data up to 2000 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Jährliche Landschaftsveränderungen in verschiedenen Beobachtungsperioden,2014 – Out of Date (Data up to 2003 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Bodennutzung nach 27 Klassen,2014 – Out of Date (Data up to 2009 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,Actually interesting as such,,
+opendata.swiss,,Entwicklung der Bodennutzung,2014 – Out of Date (Data up to 2009 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,Actually interesting as such,,
+opendata.swiss,,Bodennutzung nach 72 Grundkategorien,2014 – Out of Date (Data up to 2009 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,As above: actually interesting as such,,
+opendata.swiss,,Entwicklung der Bodennutzung in den Kantonen nach 4 Hauptbereichen,2014 – Out of Date (Data up to 2009 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Bodennutzung nach Kanton,2014 – Out of Date (Data up to 2009 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Bodennutzung nach 17 Klassen,2014 – Out of Date (Data up to 2009 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Bodennutzung nach 27 Klassen,2014 – Out of Date (Data up to 2009 shown) – Two times in the database??,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Landschaft Schweiz im Wandel,2014 – Out of Date (Data up to 2009 shown); PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Kommunale Abwasserreinigung,2014 – Out of Date (Data up to 2011 shown),,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,,,
+opendata.swiss,,Environmental accounts,2014 – Out of Date (Data up to 2012 shown); PDF and not “data”,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Die Bodennutzung in der Schweiz,2014 – With most recent data from 2009,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Die wichtigsten Flüsse der Schweiz,2015 – Not out of date as gepgraphic facts,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Erhebung zur Wahrnehmung der Umwelt durch die Bevölkerung,2015 – Out of Date (Data of 2011 shown),,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Neue statistische Definition der Berggebiete,Irrelevant auf Opendata.Swiss,,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,"Swiss Land Use Statistics: standard nomenclature (NOAS04) by major region and canton, in hectares",Letzte Daten Periode 2004/09,,«Raum und Umwelt» auf opendata.swiss,,CUBE HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Arealstatistik: Bodenbedeckung (NOLC04) nach Grossregion und Kanton,Letzte Daten Periode 2004/09,,«Raum und Umwelt» auf opendata.swiss,,CUBE HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Historicized Municipality Register,Link to SPARQL Endpoint didn't work; last update 2016; Has not been done by BFS but by external actor,,«Raum und Umwelt» auf opendata.swiss,,SPARQL DUMP,,,
+opendata.swiss,,"Environmental protection expenditure of enterprises, survey 2016",Not sure whether up-to-date as below also some accounts,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,Maybe not interesting for Energy Hackdays,,
+opendata.swiss,,"Environmental protection expenditure of enterprises, survey 2013",NOT UP-TO-DATE as newer study - is it also possible that this item is twice in the dataset for the 2013 survey?,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,Maybe not interesting for Energy Hackdays,,
+opendata.swiss,,"Environmental protection expenditure of enterprises, survey 2013",NOT UP-TO-DATE as newer study - is it also possible that this item is twice in the dataset for the 2013 survey?,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,Maybe not interesting for Energy Hackdays,,
+opendata.swiss,,Decomposition of Switzerland's fossil CO2 emissions,"PDF not ""data""",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Switzerland's material footprint,"PDF not ""data""",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Tax revenue from fossil energy agents,"PDF not ""data""",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Omnibus-Erhebung 2015: Umweltqualität und Umweltverhalten,"PDF not ""data""",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Environmental protection expenditure in the business sector,"PDF not ""data""",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Raumnutzung,"PDF not ""data""",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Arealstatistik Schweiz. Erhebung der Bodennutzung und der Bodenbedeckung. Ausgabe 2017/18,"PDF not ""data""",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,More than 60% of the greenhouse gas footprint originates abroad,"PDF not ""data""",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Landschaft Schweiz im Wandel,"PDF not ""data"", but UP-TO-DATE",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Environment. Pocket Statistics 2019,"PDF not ""data"", but UP-TO-DATE",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Arealstatistik Schweiz. Erhebung der Bodennutzung und der Bodenbedeckung. (Ausgabe 2019 / 2020),"PDF not ""data"", but UP-TO-DATE",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Environment. Pocket Statistics 2017,"PDF not ""data"", NOT UP-TO-DATE as there is edition 2019 out",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Environment. Pocket Statistics 2018,"PDF not ""data"", NOT UP-TO-DATE as there is edition 2019 out",,«Raum und Umwelt» auf opendata.swiss,,PDF HTML,,,
+opendata.swiss,,Energy accounts of economy and households,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE HTML,INTERESTING FOR ENERGY HACKDAYS,,
+opendata.swiss,,Material flow accounts - Direct input flows and their aggregates,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE HTML,INTERESTING FOR ENERGY HACKDAYS - But maybe it could be broken down to more granulary information?,,
+opendata.swiss,,Material flows in Switzerland in raw material equivalents,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,INTERESTING FOR ENERGY HACKDAYS - But maybe it could be broken down to more granulary information?,,
+opendata.swiss,,Material flows in Switzerland,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,INTERESTING FOR ENERGY HACKDAYS - But maybe it could be broken down to more granulary information?,,
+opendata.swiss,,Aufkommens- und Verwendungstabellen für Energieflüsse,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,INTERESTING FOR ENERGY HACKDAYS - But maybe it could be broken down to more granulary information?,,
+opendata.swiss,,"Energieeinsatzkonto der Haushalte und der Wirtschaft, nach Branchen und Energieträgern, in TJ",UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,INTERESTING FOR ENERGY HACKDAYS - But maybe it could be broken down to more granulary information?,,
+opendata.swiss,,"Energieeinsatzkonto der Haushalte und der Wirtschaft, nach Wirtschaftssektoren",UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,INTERESTING FOR ENERGY HACKDAYS - But maybe it could be broken down to more granulary information?,,
+opendata.swiss,,Raum und Umwelt im Zeitvergleich,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,"INTERESTING FOR ENERGY HACKDAYS - Certain comparisons over time such as renewable energies, nuclear energy etc.",,
+opendata.swiss,,Raum und Umwelt im europäischen Vergleich,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,"INTERESTING FOR ENERGY HACKDAYS - Certain comparisons to other countries such as renewable energies, nuclear energy etc.",,
+opendata.swiss,,Environmental goods and services sector account per economic activity,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE JSON HTML,INTERESTING FOR ENERGY HACKDAYS - e.g. CReMA 13 Management of energy resources,,
+opendata.swiss,,Umweltrelevantes Verhalten im Alltag,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,INTERESTING FOR ENERGY HACKDAYS - Reduction of energy consumption in households,,
+opendata.swiss,,Arealstatistik: Standardnomenklatur (NOAS04) nach Bezirk und Gemeinde,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE JSON HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Arealstatistik: Bodenbedeckung (NOLC04) nach Bezirk und Gemeinde,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE JSON HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Privatverkehr,Häufigkeit der Nutzung von Verkehrsmitteln für private Zwecke,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Bedeutung der Umweltbelastung als Problem für die Schweiz,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Aufenthalte der Bevölkerung in der Natur,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Umweltqualität als Einflussfaktor für Lebensqualität,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Einschätzung der Gefahr von Umweltveränderungen und Technologien,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Informiertheit über Umweltthemen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Einschätzung der Umweltqualität,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Information und Diskussion über Umweltthemen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Zufriedenheit mit der Lebensqualität,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Kriterien beim Kauf von Früchten und Gemüse,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Zufriedenheit mit dem Landschaftsbild,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Umwelt und Wahrnehmung,Wahrnehmung von Umweltbedingungen in der Wohnumgebung,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Ausgewählte Bundesinventare. Flächen in ha nach Kantonen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Öffentliche Umweltschutz-Nettobelastung,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Environmental protection expenditure,Öffentliche Umweltschutzausgaben,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Wasser,"Temperatur, Nitrat- und Phosphatgehalt von vier Flüssen",UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Environmental protection expenditure,Environmental protection expenditure of enterprises by economic activity,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE JSON HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Environmental protection expenditure,Environmental protection expenditure of enterprises by economic sector and size,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE JSON HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Artengefährdung,Artengefährdung in der Schweiz,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Wasser,Trinkwasser,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Wasser,Phosphorgehalt in Seen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Recycling / abfall,Abfallverwertung (Recycling). Haushalte und Gewerbe,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Recycling / abfall,Exporte von Sonderabfällen nach Ländern,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Recycling / abfall,Siedlungsabfälle,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Recycling / abfall,Behandlung von Sonderabfällen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Recycling / abfall,Sonderabfälle nach Abfallgruppen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Environmental goods and services sector accounts by economic activity (aggregated by sections),UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Environmental goods and services sector accounts by environmental domain,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Environmental protection expenditure,Environmental protection expenditure accounts,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Bodennutzung,Bodennutzungsart gemäss Arealstatistik des BFS,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Wasser / Gasversorgung,Wasser- und Gasversorgung,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Emissionen,Entwicklung der Schadstoff-Emissionen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Emissionen,Entwicklung von Schadstoffimmissionen an verschiedenen Standorttypen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,catastrophies,Schäden durch Naturereignisse,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Luftemissionen,Treibhausgasemissionen nach Verursachergruppen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Emissionen,Schadstoff-Emissionen. Anteile der Quellengruppen,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,wetter,"Klimadaten: Sonnenscheindauer, Niederschlag, Temperatur und Neuschnee",UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,wetter,Wetterrekorde,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,wetter,Witterung in der Schweiz,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,wetter,"Klimadaten: Eistage, Frosttage, Sommertage, Hitzetage, Tropennächte und Niederschlagstage",UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Material flow accounts - Indicators,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,,Material flow accounts - Domestic Processed Output DPO,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Luftemissionen,"Luftemissionskonten der Haushalte und der Wirtschaft, nach Branchen (aggregiert nach Abschnitten)",UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,environmental taxes,Environmentally related taxes account of economy and households,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,CO2,Tabellen zu den Ausgleichspositionen zwischen der Schweizerischen Gesamtenergiestatistik (GEST) und den physischen Energieflusskonten (PEFA),UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Luftemissionen,Air emissions accounts of the economy and households,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,CUBE HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,environmental taxes,Environmentally related taxes accounts by economic activity (aggregated by sections),UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,CO2,Tabellen zu den Ausgleichspositionen zwischen dem Treibhausgas- und Luftschadstoff-Inventar und den Luftemissionskonten (AEA),UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,Luftemissionen,"Luftemissionskonten der Haushalte und der Wirtschaft, nach Wirtschaftssektoren",UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
+opendata.swiss,environmental taxes,Environmentally related taxes accounts by economic player,UP-TO-DATE,,«Raum und Umwelt» auf opendata.swiss,,XLS HTML,OK – Maybe not interesting for energy hackdays,,
