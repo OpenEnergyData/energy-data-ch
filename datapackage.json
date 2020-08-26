@@ -1,9 +1,9 @@
 {
-  "name": "energy-data",
-  "title": "A list of datasets related to Energy",
+  "name": "energy-data-ch",
+  "title": "Datasets related to Energy with a focus on Switzerland",
   "format": "csv",
   "datapackage_version": "1.0.0",
-  "last_modified": "2019-01-26",
+  "last_modified": "2020-08-27",
   "license": "PDDL-1.0",
   "licenses": [
     {
@@ -15,10 +15,19 @@
   "resources": [
     {
       "path": "data/energy-datasets.csv",
+      "profile": "tabular-data-resource",
+      "encoding": "utf-8",
+      "name": "datasets",
+      "format": "csv",
+      "mediatype": "text/csv",
       "schema": {
         "fields": [
           {
-            "name": "Source",
+            "name": "Verified",
+            "description": "True if information on this dataset has been community verified",
+            "type": "string"
+          },{
+            "name": "Organisation",
             "description": "The current data owner or maintainer",
             "type": "string"
           },{
@@ -26,28 +35,36 @@
             "description": "A short, concise title",
             "type": "string"
           },{
-            "name": "URL",
-            "description": "A webpage which describes the data and provides download links",
+            "name": "Type",
+            "description": "Whether this is a dataset, literature, code sample, etc.",
             "type": "string"
           },{
-            "name": "Example URL",
+            "name": "Link",
+            "description": "A webpage which describes the data and provides download URLs",
+            "type": "string"
+          },{
+            "name": "Example",
             "description": "Any example applications or visualisations which illustrate this specific dataset",
             "type": "string"
           },{
-            "name": "Updated",
-            "description": "In which year was this dataset last updated",
+            "name": "Topic",
+            "description": "Any keywords, comma delimited, which help us to sort through the datasets. Include an ISO country code (ch, uk, ...), if it is country-specific.",
             "type": "string"
           },{
-            "name": "Tags",
-            "description": "Any keywords, space delimited, which help us to sort through the datasets. Include an ISO country code (ch, uk, ...), if it is country-specific.",
-            "type": "string"
-          },{
-            "name": "License",
+            "name": "Permissions",
             "description": "Brief description of the terms of use, along with detailed links to any License or such",
+            "type": "string"
+          },{
+            "name": "Formats",
+            "description": "List of data formats available, comma delimited",
             "type": "string"
           },{
             "name": "Comments",
             "description": "Further details related to format, content, or usage",
+            "type": "string"
+          },{
+            "name": "Contact",
+            "description": "Whom to contact for further information",
             "type": "string"
           }
         ]

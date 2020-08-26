@@ -1,240 +1,130 @@
-Source,Title,URL,Example URL,Updated,Tags,License,Comments
-Bundesamt für Statistik,Mikrozensus Verkehr und Mobilität (CH),https://www.bfs.admin.ch/bfs/de/home/aktuell/neue-veroeffentlichungen.gnpdetail.2017-0076.html,,2015,ch,,"Soziodemografische Daten (Alter, Geschlecht, Ausbildung, beruflicher Status usw. 
-Besitz von Fahrzeugen, Führerausweisen und ÖV-Abonnementen
-tägliche Mobilität (Anzahl Wege, Zeitaufwand, Distanzen, Verkehrszwecke & Verkehrsmittelnutzung"
-Bundesamt für Statistik,Pendlermobilität,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/pendlermobilitaet.html,,,ch,,
-Bundesamt für Statistik,"Energie
-Importe/Exporte
-Stromerzeugung
-Enedenergieverbrauch nach Energieträgern
-Endverbraucherausgaben für Energie",https://www.bfs.admin.ch/bfs/de/home/statistiken/energie.html,,,ch,,
-Bundesamt für Statistik,"Mobilität/Verkehr
-Personenverkehr
-Güterverkehr
-Verkehrsinfrastruktur und Fahrzeuge",https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr.html,,,ch,,
-Meteotest,Meteotest APIs für Energiewirtschaft,https://meteotest.ch/geschaeftsbereich/energiewirtschaft,,,ch,,
-Swisstopo,Gemeindegrenzen,https://data.geo.admin.ch/ch.swisstopo.swissboundaries3d-bezirk-flaeche.fill/,https://map.geo.admin.ch/?layers=ch.swisstopo.swissboundaries3d-bezirk-flaeche.fill,,ch,,linked data  http://ld.geo.admin.ch/ metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.swisstopo.swissboundaries3d-bezirk-flaeche.fill
-Swisstopo,Adressen,https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register,https://map.geo.admin.ch/?layers=ch.bfs.gebaeude_wohnungs_register,,ch,,Metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.bfs.gebaeude_wohnungs_register
-Swisstopo,PLZ Ortschaften,https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/,https://map.geo.admin.ch/?layers=ch.swisstopo-vd.ortschaftenverzeichnis_plz,,ch,,Metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.swisstopo-vd.ortschaftenverzeichnis_plz
-Swisstopo,Namen/Flurnamen,https://data.geo.admin.ch/ch.swisstopo.swissnames3d,https://map.geo.admin.ch/?layers=ch.swisstopo.swissnames3d,,ch,,Metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.swisstopo.swissnames3d
-MeteoSchweiz,"Echtzeitdaten Meteoschweiz
-ch.meteoschweiz.messnetz-atmosphaere download preview metadata
-ch.meteoschweiz.messnetz-automatisch download preview metadata
-ch.meteoschweiz.messnetz-beobachtungen download preview metadata
-ch.meteoschweiz.messnetz-flugwetter download preview metadata
-ch.meteoschweiz.messnetz-klima download preview metadata
-ch.meteoschweiz.messnetz-manuell download preview metadata
-ch.meteoschweiz.messnetz-partner download preview metadata
-ch.meteoschweiz.messnetz-phaenologie download preview metadata
-ch.meteoschweiz.messnetz-pollen download preview metadata
-ch.meteoschweiz.messnetz-webcams download preview metadata
-ch.meteoschweiz.messwerte-aktuell download metadata
-ch.meteoschweiz.messwerte-foehn-10min download preview metadata
-ch.meteoschweiz.messwerte-globalstrahlung-10min download preview metadata
-ch.meteoschweiz.messwerte-luftdruck-700hpa-flaeche-10min download preview metadata
-ch.meteoschweiz.messwerte-luftdruck-850hpa-flaeche-10min download preview metadata
-ch.meteoschweiz.messwerte-luftdruck-qfe-10min download preview metadata
-ch.meteoschweiz.messwerte-luftdruck-qff-10min download preview metadata
-ch.meteoschweiz.messwerte-luftdruck-qnh-10min download preview metadata
-ch.meteoschweiz.messwerte-luftfeuchtigkeit-10min download preview metadata
-ch.meteoschweiz.messwerte-lufttemperatur-10min download preview metadata
-ch.meteoschweiz.messwerte-niederschlag-10min download preview metadata
-ch.meteoschweiz.messwerte-sonnenscheindauer-10min download preview metadata
-ch.meteoschweiz.messwerte-taupunkt-10min download preview metadata
-ch.meteoschweiz.messwerte-wind-boeenspitze-kmh-10min download preview metadata
-ch.meteoschweiz.messwerte-windgeschwindigkeit-kmh-10min download preview metadata
-ch.meteoschweiz.normwerttabellen download metadata
-ch.meteoschweiz.temperaturmittel-1864 download metadata",http://data.geo.admin.ch/ ,http://map.geo.admin.ch/?topic=meteoschweiz ,,ch,,
-GeoProRegio,"GeoDatenshop Versorgungsunternehmen Aargau:
-
-Stromnetz
-Gasnetz
-Abwasser
-Wasser
-Fernwärme",https://www.geoproregio.ch/maps,,,ch,,
-GeoProRegio,Nutzungsbedingungen,https://www.geoproregio.ch/nutzungsbedingungen/nutzungsbedingungen,,,ch,,
-"GWR Daten, GESA",Gebäude- und Wohnungsregister (ganze Schweiz),https://www.housing-stat.ch/de/start.html,https://www.bfs.admin.ch/bfs/de/home/register/gebaeude-wohnungsregister.html,,ch,,
-"GWR Daten, GESA",Gebäude- und Wohnungsregister (Aargau),https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register/CSV/meta.txt,,,ch,,"Kantonale oder
-kommunale Teil-Downloads Liste"
-ElectricityMap,A live visualization of where your electricity comes from and how much CO2 was emitted to produce it,https://static.electricitymap.org/api/docs/index.html,https://www.electricitymap.org/?page=map&solar=false&remote=true&wind=false,,ch,,To be clarified
-GeoImpact,Swiss Energy Planning app,https://www.geoimpact.ch/#!,https://www.swissenergyplanning.ch/,,ch,,Taking part in Hackdays: David Suter & Leo Sasso-Clopath
-SUPSI,"Daten aus ""Swiss2grid"" Programm",http://www.s2g.ch/?lang=en,,,ch,,
-Opendata.swiss,Open government datasets on the topic of Energy from Switzerland,https://opendata.swiss/de/group/energy,https://opendata.swiss/de/app/,,ch,,
-GeoAdmin.ch,Geodaten: Energie und Wirtschaft,https://www.geo.admin.ch/de/geoinformation-schweiz/verzeichnis-inspire/energie-und-wirtschaft/energiequellen.html,,,ch,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch
-GeoAdmin.ch,Geodaten: Bundesamt für Energie,http://www.bfe.admin.ch/geoinformation/05061/index.html?lang=de ,https://opendata.swiss/en/dataset?organization=bundesamt-fur-energie-bfe&q=ch.bfe ,,ch,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch
-GeoAdmin.ch,Datenviewer,https://map.geo.admin.ch/?lang=en&topic=energie ,,,ch,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch
-Opentransportdata.ch,Open Data Platform Swiss Public Transport,https://opentransportdata.swiss/de/,,,ch,,
-Data.SBB.ch,"Bahnhöfe (WiFi-Stationen, Mobiliar, Anzahl Personen pro Aufgang, LoRa-Stationen)
-Verkehr (Verkehrsinformationen, Linien mit Betriebspunkten, Haltestellen, regionale Linienpläne, Städtefahrpläne, reionale Fahrpläne, grphischer Fahrplan
-Infrastruktur (Brücken, Notausstege entlang Strecke, Bahnübergänge, LoRa-Stationen, Bauprojekte, Tunnel, WiFi-Stationen)
-Immobilien (Bauprojekte)
-Karte (Brücken, Bahnübergänge, Notausstiege entlang der Strecke, regionale Fahrpläne, Karte Trafimarge, Züge pro Streckenabschnitt, LoRa-Stationen, Passagierfrequenz, Bauprojekte, Haltestellen Mobilität)
-Rollmaterial (Beschreibung Ausrüstung Rollmaterial, Verkehrsperioden 2018, Rollmaterial Matching)
-Dienstleistungen (Mobilität, Gepäck, Kontaktadressen, Shops, Billetautomaten, Zugverkehrsinformationen, Equipment, Nebenbetriebe, Services)",https://data.sbb.ch/pages/home/,,,ch,,
-Geocat.ch,AEW Leitungskataster Lichtwellenleiter,,,,ch,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
-Geocat.ch,AEW Leitungskataster FErnwärme,,,,ch,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
-Geocat.ch,AEW Leitungskataster Strom,,,,ch,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
-Geocat.ch,Windatlas Schweiz (50m und 100m über Grund),,,,ch,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
-Geocat.ch,Bikesharing und Veloverleihsysteme,,,,ch,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
-Geocat.ch,Eignung von Hausdächern für Nutzung von Sonnenenergie,,,,ch,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
-OpenStreetMap,,https://osm.ch/,https://www.openstreetmap.org/,,ch,,
-Swissgrid,"Energieübersicht Schweiz: monatliche Daten zu Produktion, Verbrauch, Endverbrauch",https://www.swissgrid.ch/de/home/operation/grid-data/generation.html,,,ch,,Daten in XLS
-Swissgrid,"Netzkennzahlen (Frequenz, Importe, Exporte, Wide Area Monitoring)",https://www.swissgrid.ch/de/home/operation/grid-data/current-data.html,,,ch,,Daten in XLS
-Swissgrid,"Uebertragung (Importe, Exporte, Verluste)",https://www.swissgrid.ch/de/home/operation/grid-data/transmission.html,,,ch,,Daten in XLS
-Swissgrid,Netzdaten allg,https://www.swissgrid.ch/de/home/operation/grid-data.html,,,ch,,
-Swissgrid,Tarife und Vergütungssätze für das Uebertragungsnetz,https://www.swissgrid.ch/de/home/customers/topics/tariffs.html,,,ch,,PDF
-Swissgrid,Frequenzstatistik 2003 bis 2018,https://www.swissgrid.ch/de/home/customers/topics/frequency-statistic.html,,,ch,,PDF
-Geoportal Kt. Aargau,Onlinekarten,https://www.ag.ch/de/dfr/geoportal/geoportal.jsp,,,ch,,Nur onlinekarten > relevante Datensätze werden bestellt
-Geoportal Kt. Aargau,"Agglomerationen und Einzelstädte CH, 1:2'000'000
-Agglomerationsprogramm 1.Generation Verkehrslinien
-Agglomerationsprogramme 1.Generation: Knoten, Haltestelle und ESP
-Agglomerationsprogramme 1. Generation: Verkehrsmanagement
-Aggloprogramme 2. Generation: Verkehr (Flächen)
-Aggloprogramme 2. Generation: Verkehr (Linien)
-Aggloprogramme 2. Generation: Verkehr (Punkte)
-Aggloprogramme 3. Generation: Verkehr (Flächen)
-Aggloprogramme 3. Generation: Verkehr (Linien)
-Aggloprogramme 3. Generation: Verkehr (Punkte)
-Bahnlinien
-Buslinien
-Gemeindegrenzen
-Generalisierte Agglomerationenund städtische Kerne (1:300'000 bis 1:600'000)
-Hochspannungsleitung (geplant) Richtplan
-Kraftwerke
-Nationalstrassen Anschluss/Halbanschluss Richtplan
-Netz Kantonsstrassen undNationalstrassen
-Netzgebietszuteilung NE7
-Netzgebietszuteilung Punktuelle Ausnahmen
-öV-Haltestellen
-Park+Pool
-Park+Ride (P+R)
-Parkplätze
-Radroutennetz, definitive Linienführung der kantonalen Radrouten (Richtplan)
-Richtplan Gesamtkarte (TIFF)
-Risikokataster (Mobile Risiken): Durchgangsstrassen
-Risikokataster (Mobile Risiken): Eisenbahnen
-Risikokataster (Mobile Risiken): Gasleitungen
-Risikokataster (Mobile Risiken): Nationalstrassen
-Risikokataster (Stationäre Risiken): Betriebsareale
-Risikokataster (Stationäre Risiken): Chemiebetriebe
-Schienennetz: Kilometrierungslinien
-Schienennetz: Knoten
-Schienennetz: Netzsegmente
-Solarkataster
-Solarpotenzial pro Gemeinde
-Sonneneinstrahlung (TIFF)
-Starkstromleitungen ab LK25
-Strassennetz im EGM05-Raum
-Strassennetz TomTom: Eisenbahn (Railways)
-Strassennetz TomTom: Postleitzahlen
-Strassennetz TomTom: Strassenlinien
-Strassenverkehrszählungen/StrassenbelastungsplanMIV
-Versorgungsrouten
-Volkszählungsdaten 2012, Gesamtbevölkerung auf Hektarbasis
-Volkszählungsdaten 2014, Statistik der Bevölkerung - Sammelhektare pro Gemeinde für Personen ohne Adresse
-3D Gebäude
-Gebäude ab Übersichtsplan 1:5000
-Gebäude- und Wohnungsstatistik 2015 - Sammelhektare pro Gemeinde für nicht genau lokalisierbare Gebäude mit Wohnnutzung
-Gebäude- und Wohnungsstatistik 2015 auf Hektarbasis
-Gebäude- und Wohnungsstatistik 2016 - Sammelhektare pro Gemeinde für nicht genau lokalisierbare Gebäude mit Wohnnutzung
-Gebäude- und Wohnungsstatistik 2016 auf Hektarbasis
-Gebäudeadressen GEOPOST
-Pixelkarte 1:50'000 (PK50) Gebäude, Gebäudesignaturen (TIFF)
-swissBUILDINGS: 3D-Gebäude
-",https://www.ag.ch/app/agisviewer4/v1/agisviewer.html,,,ch,,Shape Files
-Pecan Street,"Resources for energy, water and transportation research",https://www.pecanstreet.org,https://dataport.cloud/,,,,beim Dataport ist eine Anmeldung notwendig!
-Swisscom ,Open Data resources,https://opendata.swisscom.com/explore/?sort=title&refine.language=de,,,ch,,
-Sonnendach.ch,Solarpotenzial in der Schweiz (Dach und Fassade für jede Schweizer Gemeinde),"https://map.geo.admin.ch/?lang=de&topic=energie&bgLayer=ch.swisstopo.swissimage&catalogNodes=2419,2420,2427,2480,2429,2431,2434,2436,2767,2441,3206&layers=ch.bfe.solarenergie-eignung-daecher",,,ch,,
-Amprion,"Netzkennzahlen (Erzeugung, Erzeugung in Regelzone, Grenzüberschreitende Lastflüsse, Lastverlauf, PV-Einspeisung, Windenergieeinspeisung, vertikale Netzlast)",https://www.amprion.net/Netzkennzahlen/,,,de,,
-TransnetBW,"Kennzahlen (Einspeisung Wind, Einspeisung Photovoltaik, EEG Intraday, Differenz Einspeisungsprognose zu vermarkteter Menge)
-",https://www.transnetbw.de/de/transparenz/marktdaten/kennzahlen,,,de,,Homepage > 
-TransnetBW,"Strukturdaten (Strukturdaten, Netzverluste), Strommarkt (Regelenergie Bedarf/Abruf, Abschaltbare Lasten, Netzreserve, Kapazitätsreserven)
-",https://www.transnetbw.de/de,,,de,,Homepage > Strommarkt > ....
-Energinet,"Energy Data (Denmark) Production and Consumption, Whole Sale Market, Ancillary Services, Transmission lines, CO2 Emissions, Gas","https://en.energinet.dk/Electricity/Energy-data
-
-https://www.energidataservice.dk/en/",,,dk,,On this page you can find raw data and statistics or energy data provided by other players in the electricity market (Focus on Denmark)
-Energinet,Data Hub (Denmark),https://en.energinet.dk/Electricity/DataHub,,,dk,,
-RTE France,"Data Portal (Demand Response Signal, Imbalance Reconstitution, Generation Forecast,  Balancing Capacity, temporal Reconciliation, Generation storage park, prime supply, actual generation, wholesale market, consumption, balancig energy, big raw metering, cross zonal capacity, demand response, generation installed capacity,etc)",https://data.rte-france.com/catalog/all_categories,,,fr,,API key required
-TennetTSO,,https://www.tennet.eu/de/#&panel1-1,,,,,
-Elia,"Load
-Interconnection
-Generation
-Balacing",http://www.elia.be/en/grid-data/data-download,,,be,,"CSV, Excel; Needs clarification"
-Elia,"Grid technical Data
-Map High voltage grid",http://www.elia.be/en/grid-data/Grid-Technical-Data,,,be,,"Excel, PDF"
-ENTSO-E,Transparenzplattform der europäischen Uebertragungsnetzbetreiber,https://transparency.entsoe.eu/dashboard/show,,,,,
-ENTSO-E,"Load (Total Load Day ahead, Total Load Forecast (month, week, year, margin)",https://transparency.entsoe.eu/dashboard/show,,,,,
-ENTSO-E,"Generation (installed capacity, water reservoirs and hydro storage plants, actual generation by type, actual generation per unit, forecast wind and solar)",https://transparency.entsoe.eu/dashboard/show,,,,,Energy Production and production forecast
-ENTSO-E,"Transmission (scheduled commercial exchange, cross border physical flow, day ahead price, forecast transfer capacities (day, week, month, year)",https://transparency.entsoe.eu/dashboard/show,,,,,Data about power transfers over borders between areas
-ENTSO-E,"Balancing (accepted offers, volumes of contracted balancing reserves, imbalance, cross border balancing)",https://transparency.entsoe.eu/dashboard/show,,,,,Data about regulation energy used to keep the electrical transmission grid in balance
-ENTSO-E,Outages,https://transparency.entsoe.eu/dashboard/show,,,,,Data about planned maintenence and failures inside the electrical transmission grid
-ENTSO-E,"Congestion Management (Countertrading, Redispatching internal, Redispatching cross border)",https://transparency.entsoe.eu/dashboard/show,,,,,Data about actions taken to relieve overloaded parts of the electrical transmission grid
-ENTSO-E,"Data 2011 bis 2015 by country (Cross Border commercial schedule, cross border physical flow, year ahead NTC, Balance Management, Total load)",https://transparency.entsoe.eu/dashboard/show,,,,,"XML, XLSX"
-ENTSO-E,Grid Map,https://www.entsoe.eu/data/map/,,,,,Website des Verbandes der europäischen Übertragungsnetzbetreiber
-ENTSO-E,"Power Statistics by Country (monthly domestic values, net generating capacity, Metadata Repository, physical energy & power flows, inventory of transmission, monthly hourly load values, inventory of generation)",https://www.entsoe.eu/data/power-stats/,,,,,
-ENTSO-E,Outlook Reports by country,https://www.entsoe.eu/outlooks/seasonal/,,,,,"XLSX, PDF; Winter and summer outlooks since 2009"
-ENTSO-E,"IT Plattforms (Links to Transparency, Common Grid Model, ",https://www.entsoe.eu/data/it-platforms/#,,,,,
-ENTSO-E,"Statistics and Data (monthly statistics reports, electricity in Europe, Statistical yearbooks, statistical factsheets, annual statistics, load values)",https://www.entsoe.eu/publications/statistics-and-data/,,,,,Online Application Portal for Network Datasets also available
-Netztransparenz.de,Informationsplattform der deutschen Uebertragungsnetzbetreiber,https://www.netztransparenz.de/,,,de,,
-Netztransparenz.de,Links zu Informationsplattformen,https://www.netztransparenz.de/Allgemeines/Informationsplattformen,,,de,,
-Netztransparenz.de,Archivdaten der bisherigen EEX-Transparenzplattform für die Jahre 2013 und 2014,https://www.netztransparenz.de/EU-Transparenzverordnung/Archivdaten-der-bisherigen-EEX-Transparenzplattform,ZIP,,de,,
-Netztransparenz.de,"Solarenergie Prognose der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Solarenergie-Prognose,CSV,,de,,
-Netztransparenz.de,"Windenergie Prognose der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Windenergie-Prognose,CSV,,de,,
-Netztransparenz.de,"Solarenergie Hochrechnung der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Solarenergie-Hochrechnung,CSV,,de,,
-Netztransparenz.de,"Windenergie HOchrechnung der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Windenergie-Hochrechnung,CSV,,de,,
-Intraday Capacity,Available Transfer Capacity (Europe),https://www.intraday-capacity.com/php/main.php,,,,,
-TSCNET Services,Services for power transmission system operators (TSOs) and their control centres to maintain the operational security of our electricity system’,https://www.tscnet.eu/,,,,,Informationsplattform der Transmission System Operator Security Cooperation (TSC).
-Zürich,"Bevölkerung (Linked open statistical Data, Daten ZüriZahlen App), Bauen und Wohnen (Fernwärmegebiete, Gasrückzugsgebiete, Linked Open statistical data), Mobilität (Standorte autom.Zählgeräte, Linked open statistical Data, Daten Velozählstelle,…), Umwelt, Energie (Linked open statistical data, Beleuchtung, Wasser-&Gasversorgung)
-",https://data.stadt-zuerich.ch/,,,ch,,"wms, wfs, json, xml, pdf, csv, kmz, gpkg"
-Basel,"Raum & Umwelt (Eigenproduktion Strom, Energieeffizienz, Energiepreise CH, ....)
-Bevölkerung
-Energie (Stromverbrauch nach EnergieTräger, spez.Heizenergieverbr., neue erneuerbare Energien, Stromverbrauch pro Einwohner)
-Mobilität & Verkehr (Verkehrsleistungsindex, Motorfahrzeuge, Verkehrszähldaten,",https://opendata.swiss/de/organization/kanton-basel-stadt,,,ch,,
-Basel,"Anwendungen (Datenvisualisierungen > Stadtplan, Pegel, Statistikkarten, Quartierindex, MapBS, Dräggwägg,...))
-Datenkatalog (Link auf opendata.swiss > see above)",http://www.staatskanzlei.bs.ch/oeffentlichkeitsprinzip/ogd.html,,,ch,,
-Bern,"Statistik
-Bevölkerung (Haushalte, demographische Merkmale, Prognosen....)
-Volkswirtschaft (Volkseinkommen, GDP/BIP)
-Energie (Gas-&Wasserversorgung, KVA, FErnwärme, Elektrizitätswerk)
-Mobilität (Verkehrszählungen, Motorfahrzeuge, öV, Strassennetz)",https://www.bern.ch/open-government-data-ogd/ogd-nach-themen,,,ch,,"excel, PDF"
-Bern,"Geodaten
-Immobilien",https://www.bern.ch/open-government-data-ogd/ogd-nach-themen,,,ch,,
-München,"Bevölkerung
-Transport/Verkehr
-Umwelt/Klima
-Geobasisdaten
-Infrastruktur",https://www.opengov-muenchen.de/,,,de,,
-Stuttgart,Verkehr,https://www.openvvs.de/,,,de,,API
-Berlin,Home/Uebersicht,https://daten.berlin.de/datensaetze,,,de,,
-Berlin,"Geographie und Stadtplanung
-Gemarkungen
-Katasterinformationen
-Gewässer und Vegetationsflächen/Linien
-INSPIRE Datenmodell",https://daten.berlin.de/kategorie/geographie-und-stadtplanung,,,de,,"De Daten hier sind offen, aber man muss sich anmelden. Es ist ein wahrer Schatz an Daten, die Berlin hier zur Verfügung stellt."
-Berlin,"Ver- und Entsorgung (2008 bis 2018)
-Netzverluste
-Stromausfälle
-Standardlastprofile (Gewerbe, ...)
-Einspeisung dezentrale Anlagen
-Einspeisung benachbarte Netze gleiche NEtzebene 
-Entnahmen der Letztverbraucher (Differenzbilanzierung)
-Jahreshöchstlast, Lastverlauf
-Netzeinspeisung BHKW, WKK
-Testdaten Stromausfall Energyhack
-Tagesparameterabhängiges Lastprofil Wärmepumpen
-Summe EInspeisung Hochspannung
-Summe Einspeisung Niederspannung
-Preisblatt Netznutzung
-Fahrplanprognosen Standardlastkunden
-Web Service Last und Erzeugung 15min",https://daten.berlin.de/kategorie/ver-und-entsorgung,,,de,,
-Berlin,"Verkehr
-Verkehr und Personenaufkommen (Parkplatzbelegung, Bewegungsdaten)
-eMobility Ladestationen
-öV Linien
-öV Fahrplan
-Smart City Berlin Ernst Reuter Platz","https://daten.berlin.de/kategorie/verkehr
-
-http://flow.dai-labor.de/datasets/",,,de,,Fahrplandaten via API und GTFS
-Bundesamt für Energie,Nationale Dateninfrastruktur Elektromobilität (DIEMO),https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/ch.bfe.ladestellen-elektromobilitaet.json,,,ch,,
-LEMNET,Lemnet Ladestationspunkte,https://www.lemnet.org/de/downloads,,,,,
-OPSD,Open Power System Data,https://open-power-system-data.org/,https://open-power-system-data.org/publications,2018,,https://open-power-system-data.org/legal,"The current project phase runs from January 2018 until December 2020 and is carried out by Neon Neue Energieökonomik, Technical University of Berlin, DIW Berlin and ETH Zürich. There will be regular, at least yearly releases of all existing data packages and additions of new variables in the data packages."
+﻿ID,Verified,Topic,Type,Title,Description,Link,Formats,Permissions,Organisation,Example,Contact,Comment
+1639,,Haushalte,Dataset,Beratungsbericht Gebäudemodernisierung,Anwenderhandbuch GEAK online Tool (GEAK User Manual 4.0.2),https://docplayer.org/25877609-Anwenderhandbuch-zum-geak-online-tool.html,,,,,,
+1637,,Blockchain,Dataset,BitinfoCharts,Miners revenue timeseries,https://bitinfocharts.com,,,,,,
+1647,,Verkehr,Dataset,Energieverbrauch der Verkehrsträger im Vergleich,,https://www.energiestiftung.ch/energieeffizienz-verkehrstraegervergleich.html,,,,,,
+1646,,Elektrogeräte,Dataset,Faktenblatt Strombverbrauch Elektrogeräte,,https://www.newsd.admin.ch/newsd/message/attachments/46117.pdf,,,,,,
+1640,,Mobilität,Dataset,Lemnet Ladestationspunkte,,https://www.lemnet.org/de/downloads,,,,,,
+1642,,Geräte,Dataset,List of iPhones,  - Battery capacities of different smartphone models,- https://www.theiphonewiki.com/wiki/List_of_iPhones,,,,,,
+1641,,"Catalog,Haushalte",Dataset,Public datasets for NIALM,"Public data sets on household energy consumption data into individual appliances, also known as Non-intrusive Appliance Load Monitoring (NIALM) or energy disaggregation  Almanac of Minutely Power Dataset Berkeley Energy Disaggregation Dat Set Controlled On/Off Loads library dataset Dataport database Dutch Rersidential Energy Dataset Electricity Consumption & Occupancy data set GREEND Dataset Household Electricity Use Study EDF Individual household electric power consumption data set Smart Home Data Set REFIT Electrical Load Measurements dataset UK Domestic Appliance Level Electricity dataset",http://blog.oliverparson.co.uk/2012/06/public-data-sets-for-nialm.html,,,,,,
+1548,,Smart Meter,Dataset,Smart Meter Data Sets, Listing of datasets and code samples related to Smart Meter ,https://github.com/smda/smart-meter-data-catalog,,,,,,
+1644,,"Haushalte,Deutschland",Dataset,Stromverbrauch Haushaltsgeräten,,https://www.stromspiegel.de/stromspar-tipps/strom-sparende-haushaltsgeraete/,,,,,,
+1643,,"Haushalte,Deutschland",Dataset,Stromverbrauch im Haushalt,,https://www.stromverbrauch-haushalt.de/haushaltgeraete-stromverbrauch.html,,,,,,
+1649,,"Verbrauch,Deutschland",Dataset,Stromverbrauch im Haushalt,,https://www.stromverbrauch-haushalt.de/haushaltgeraete-stromverbrauch.html,,,,,,
+1648,,Verbrauch,Dataset,Transaction per block timeseries,Average Price of Electricity to Ultimate Customers by End-Use Sector,https://www.eia.gov/electricity/monthly/epm_table_grapher.php?t=epmt_5_6_a,,,,,,
+1513,,"Catalog,Deutschland",Dataset,50Hertz,50Hertz betreibt das Stromübertragungsnetz im Norden und Osten Deutschlands,https://www.50hertz.com/de/Transparenz/Kennzahlen,CSV,,50Hertz,,Matthias Eifert,https://www.50hertz.com/ Google suche: site:https://www.50hertz.com CSV
+1514,,Fernwärme,Dataset,AEW Leitungskataster FErnwärme,AEW Leitungskataster FErnwärme,https://ag-geo.ch/#/,,,AEW,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
+1516,,Lichtwellenleiter,Dataset,AEW Leitungskataster Lichtwellenleiter,AEW Leitungskataster Lichtwellenleiter,https://ag-geo.ch/#/,,,AEW,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
+1515,,"Strom,Kadaster & Netze",Dataset,AEW Leitungskataster Strom,AEW Leitungskataster Strom,https://ag-geo.ch/#/,,,AEW,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
+1518,,Wetter,Dataset,Agrometeo,historical weather data 10min intervals,http://www.agrometeo.ch/de/meteorology/datas,,,Agroscope,,,
+1519,,Netzkennzahlen,Dataset,Netzkennzahlen,"Erzeugung, Erzeugung in Regelzone, Grenzüberschreitende Lastflüsse, Lastverlauf, PV-Einspeisung, Windenergieeinspeisung, vertikale Netzlast",https://www.amprion.net/Netzkennzahlen/,,,Amprion,,Matthias Eifert,
+1521,,,Dataset,Kanton Basel Stadt,"Raum & Umwelt (Eigenproduktion Strom, Energieeffizienz, Energiepreise CH, ....) Bevölkerung Energie (Stromverbrauch nach EnergieTräger, spez.Heizenergieverbr., neue erneuerbare Energien, Stromverbrauch pro Einwohner) Mobilität & Verkehr (Verkehrsleistungsindex, Motorfahrzeuge, Verkehrszähldaten,",https://opendata.swiss/de/organization/kanton-basel-stadt,,,Basel,,Matthias Eifert,
+1522,,,Dataset,Staatskanzlei Basel,"Anwendungen (Datenvisualisierungen > Stadtplan, Pegel, Statistikkarten, Quartierindex, MapBS, Dräggwägg,...)) Datenkatalog (Link auf opendata.swiss > see above)",http://www.staatskanzlei.bs.ch/oeffentlichkeitsprinzip/ogd.html,,,Basel,,Matthias Eifert,
+1523,,Haushalte,Dataset,Daten von Hot or Not,"Datensätze von Haushalten aus der Schweiz zu 37 Eigenschaften (z.B. Einstellung, Haushaltsgrösse, Solaranlage); anonymisiert - keine Adresse  -- Insgesamt ca. 5'500 Datensätze",http://make.opendata.ch/wiki/_media/project:hotornot:ben_hackathon_portal_household_and_activity_data.xlsx,,,BENEnergy,,,
+1526,,"Catalog,Deutschland",Dataset,catalog Berlin,Home/Uebersicht,https://daten.berlin.de/datensaetze,,,Berlin,,Matthias Eifert Oleg Lavrovski,
+1529,,"Catalog,Deutschland",Dataset,Daten.Berlin.de,"Verkehr Verkehr und Personenaufkommen (Parkplatzbelegung, Bewegungsdaten) eMobility Ladestationen öV Linien öV Fahrplan Smart City Berlin Ernst Reuter Platz",https://daten.berlin.de/kategorie/verkehr  http://flow.dai-labor.de/datasets/,"API,GTFS",,Berlin,,Matthias Eifert Oleg Lavrovski,Fahrplandaten via API und GTFS
+1527,,"Catalog,Deutschland",Dataset,Energieatlas Berlin,Energieatlas Berlin,https://daten.berlin.de/datensaetze/energieatlas-berlin,,,Berlin,,,
+1528,,"Catalog,Deutschland",Dataset,Geoportal Berlin,Geographie und Stadtplanung Gemarkungen Katasterinformationen Gewässer und Vegetationsflächen/Linien INSPIRE Datenmodell,https://daten.berlin.de/kategorie/geographie-und-stadtplanung,,,Berlin,,Matthias Eifert Oleg Lavrovski,
+1525,,"Catalog,Deutschland",Dataset,Versorgung Berlin,"Ver- und Entsorgung (2008 bis 2018) Netzverluste Stromausfälle Standardlastprofile (Gewerbe, ...) Einspeisung dezentrale Anlagen Einspeisung benachbarte Netze gleiche NEtzebene Entnahmen der Letztverbraucher (Differenzbilanzierung) Jahreshöchstlast, Lastverlauf Netzeinspeisung BHKW, WKK Testdaten Stromausfall Energyhack Tagesparameterabhängiges Lastprofil Wärmepumpen Summe EInspeisung Hochspannung Summe Einspeisung Niederspannung Preisblatt Netznutzung Fahrplanprognosen Standardlastkunden Web Service Last und Erzeugung 15min ....",https://daten.berlin.de/kategorie/ver-und-entsorgung,,,Berlin,,Matthias Eifert Oleg Lavrovski,
+1530,,"Geodaten,Immobilien,Bern",Dataset,Bern OGD,Geodaten Immobilien,https://www.bern.ch/open-government-data-ogd/ogd-nach-themen,,,Bern,,Matthias Eifert,
+1531,,"Catalog,Bern",Dataset,Statistik Bevölkerung,"Statistik Bevölkerung (Haushalte, demographische Merkmale, Prognosen....) Volkswirtschaft (Volkseinkommen, GDP/BIP) Energie (Gas-&Wasserversorgung, KVA, FErnwärme, Elektrizitätswerk) Mobilität (Verkehrszählungen, Motorfahrzeuge, öV, Strassennetz)",https://www.bern.ch/open-government-data-ogd/ogd-nach-themen,"XLS,PDF",,Bern,,Matthias Eifert,"excel, PDF"
+1561,,Forschung,Dataset,BFE Forschungsprogramm,Aktuelle Forschungsschwerpunkte  Aktuell stehen dabei folgende Themenblöcke im Vordergrund:      Energiekonsum und individuelles Verhalten     Unternehmen und Märkte     Energie- und umweltpolitische Massnahmen und Instrumente  Detailliertere Forschungsschwerpunkte werden in den EWG Ausschreibungen veröffentlicht. ,https://www.bfe.admin.ch/bfe/de/home/forschung-und-cleantech/forschungsprogramme/energie-wirtschaft-gesellschaft-ewg.html,,,BFE,,"Martin Hertach, Matthias Galus",
+1572,,Catalog,Dataset,Energiedaten,Katalog aller Daten,http://www.bfe.admin.ch/geoinformation/05061/index.html?lang=de ,API,,BFE,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch
+1594,,Mobilität,Dataset,Nationale Dateninfrastruktur Elektromobilität (DIEMO),"Rund 35% des Energieverbrauchs der Schweiz entfallen auf die Mobilität. Der Mobilitätsbereich ist aktuell zu über 95% von fossilen Energieträgern abhängig. Grundsätzlich strebt der Bundesrat im Bereich des motorisierten Individualverkehrs eine generelle und technologieneutrale Energieeffizienzsteigerung an, die jedoch in das übergeordnete Ziel einer nachhaltigeren Mobilität eingebettet sein muss. Die Elektromobilität bietet die Chance, einen Beitrag zu einer nachhaltigeren Mobilität zu leisten. Mit der Elektromobilität ist eine Schlüsseltechnologie zur Erreichung ambitionierter energie- und klimapolitischer Ziele vorhanden. Elektroantriebe sind effizient und der Einsatz von Strom erlaubt die Nutzung erneuerbarer Energien.Die nationale Daten-Infrastruktur Elektromobilität (DIEMO) bezweckt, dass Daten zur Ladeinfrastruktur der Schweiz im Sinne von Open Data einheitlich, in hoher Qualität und kostenlos zur Verfügung stehen. Dazu harmonisiert und aggregiert DIEMO Daten verschiedener Betreibenden von Ladeinfrastruktur und stellt ein Gesamtbild der Ladestellen zur Verfügung.",https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/ch.bfe.ladestellen-elektromobilitaet.json,,,BFE,,,
+1532,,,Dataset,Sonnendach,Wie viel Strom oder Wärme kann mein Dach produzieren?,https://www.uvek-gis.admin.ch/BFE/sonnendach/,,,BFE,,Roland Schäfer,
+1533,,,Dataset,Windatlas,,https://www.uvek-gis.admin.ch/BFE/storymaps/EE_Windatlas/?lang=de,,,BFE,,Roland Schäfer,
+1534,,Mobilität,Dataset,BFE Ladestellen,"Nationale Daten-Infrastruktur (DIEMO) für eine verbesserte Sichtbarkeit von Ladeinfrastruktur­informationen (z.B. Standort, Zugang, Stecker-Typen). Mit DIEMO wird erreicht, dass Daten zur Ladeinfrastruktur der Schweiz im Sinne von Open Data einheitlich, diskriminierungsfrei, in hoher Qualität und kostenlos zur Verfügung stehen. Durch die direkte Anbindung der Ladeinfrastrukturbetreiber an die Bundesgeodateninfrastruktur entsteht eine Datengrundlage von hoher Qualität und wird auch die Bereitstellung dynamischer Daten möglich (Verfügbarkeit der Ladestationen).",  https://data.geo.admin.ch/ch.bfe.ladestellen-elektromobilitaet/data/ch.bfe.ladestellen-elektromobilitaet.json  ,,,BfE DIEMO,,,Live Demo-Daten
+1591,,Mobilität,Dataset,Mikrozensus Verkehr und Mobilität (CH),,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/verkehrsverhalten.assetdetail.1840477.html,XLS,,BFS,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/verkehrsverhalten/tabellen-2015/hauptbericht.html,Matthias Eifert,Tabellen - Erhebung alle 5 Jahre (Daten aus dem Jahr 2015)
+1520,,Catalog,Dataset,ARAMIS,"Research, innovation and evaluation projects funded or conducted by the Confederation. Hier haben Sie die Möglichkeit, die öffentliche Daten aus ARAMIS zu exportieren in den Formaten: Excel CSV JSON",https://www.aramis.admin.ch,"CSV,JSON,XLS",Open,Bund,https://www.aramis.admin.ch,,"Im ARAMIS-Grafiktool haben Sie die Möglichkeit, Grafiken aus den ARAMIS-Daten zu generieren und sich diese in verschiedenen Formaten ausgeben zu lassen: https://sar-service.sahli-interactive.ch/"
+1538,,Mobilität,Dataset,BFS Mikrozensus,Mobilität/Verkehr Mikrozensus 2015 Tabellenpakete,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/verkehrsverhalten/tabellen-2015.html,,,Bundesamt für Statistik,,,
+1536,,Mobilität,Dataset,BFS Pendlermobilität,Statistiken,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr/personenverkehr/pendlermobilitaet.html,,,Bundesamt für Statistik,,, Hierzu liegt auch ein zur Verfügung gestelltes Datenpaket des BFS vor
+1539,,,Dataset,BFS Statistiken,Energie Importe/Exporte Stromerzeugung Enedenergieverbrauch nach Energieträgern Endverbraucherausgaben für Energie,https://www.bfs.admin.ch/bfs/de/home/statistiken/energie.html,"GIS,XLS,JPG",,Bundesamt für Statistik,,,"Karten, Tabellen, Grafiken"
+1540,,Mobilität,Dataset,BFS Statistiken,Mobilität/Verkehr Personenverkehr Güterverkehr Verkehrsinfrastruktur und Fahrzeuge,https://www.bfs.admin.ch/bfs/de/home/statistiken/mobilitaet-verkehr.html,"GIS,XLS,JPG",,Bundesamt für Statistik,,,"Karten, Tabellen, Grafiken"
+1545,,Smart Meter,Dataset,Data.gov.uk,Smart Meter Data Sets,https://data.gov.uk/search?q=smart+meter,,,Data.gov.uk,,,
+1542,,"England,Catalog",Dataset,Smart meter data from UK,Various datasets on Smart Meter topics from the UK,https://data.gov.uk/search?q=smart+meter,,,Data.gov.uk,,,
+1549,,"Stromproduktion,CO2,Echtzeit",Dataset,ElectricityMap,"eine Karte, die für über 131 Regionen weltweit und in Echtzeit die Stromproduktion (inkl. Import und Export) und deren CO2-Intensität abbildet",https://data.electricitymap.org,API,,Electricitymap.org,https://www.electricitymap.org/map,,API Schnittstelle > wird hergestellt > Oleg?
+1551,,,Dataset,ELIA.be,Grid technical Data Map High voltage grid,http://www.elia.be/en/grid-data/Grid-Technical-Data,"PDF,XLS",,Elia,,Matthias Eifert Oleg Lavrovski,"Excel, PDF"
+1550,,,Dataset,Load Interconnection Generation Balacing,,http://www.elia.be/en/grid-data/data-download,"CSV,XLS",,Elia,,Matthias Eifert Oleg Lavrovski,
+1552,,,Dataset,Enerdata.net,EnerMonthly (Monthly Energy Database Global Energy and CO2 Data Global Energy Forecasts Marginal Abatement Cost Curves,https://www.enerdata.net/research/,,,Enerdata,,,
+1638,,,Dataset,Elektronikgeräte,Elektronikgeräte,http://www.energie.ch/elektronikgeraete,,,Energie.ch,,,
+1554,,,Dataset,Energienet.dk,"Energy Data (Denmark) Production and Consumption, Whole Sale Market, Ancillary Services, Transmission lines, CO2 Emissions, Gas",https://en.energinet.dk/Electricity/Energy-data  https://www.energidataservice.dk/en/,,,Energinet,,Matthias Eifert,On this page you can find raw data and statistics or energy data provided by other players in the electricity market (Focus on Denmark)
+1553,,,Dataset,Energinet.dk,Data Hub (Denmark),https://en.energinet.dk/Electricity/DataHub,,,Energinet,,Matthias Eifert,
+1555,,,Dataset,Energydata.info,Data Sets by Countries,https://energydata.info/dataset,,,EnergyData.Info,,,"About energydata.info ➢ ENERGYDATA.INFO is an  open data platform  providing access to datasets  and data analytics that are relevant to the energy sector ➢ It has been developed as a public good available to governments, development  organizations, non - governmental organizations, academia, civil society and  individuals to  share data and analytics The World Bank Group welcomes the opportunity to collaborate further with  data providers and users in making more data, visualizations and tools publicly  available. Please contact our team at  energydata@worldbankgroup.org"
+1556,,"Stromproduktion,Deutschland",Dataset,EnergyMap.info,"Energiekarte, aktuelle Stromproduktion aus EE ",http://www.energymap.info/download.html,CSV,,EnergyMap,,Matthias Eifert,> 1mio Datensätze
+1629,,"Markt,Europe",Dataset,Transparency.Entsoe.eu,"Transmission (scheduled commercial exchange, cross border physical flow, day ahead price, forecast transfer capacities (day, week, month, year)",https://transparency.entsoe.eu/dashboard/show,"XML,XLS",,ENTSOE,,Matthias Eifert,Data about power transfers over borders between areas
+1559,,Europe,Dataset,ENTSOE.eu,"Statistics and Data (monthly statistics reports, electricity in Europe, Statistical yearbooks, statistical factsheets, annual statistics, load values)",https://www.entsoe.eu/publications/statistics-and-data/,API,,EntSOE,,Matthias Eifert,Online Application Portal for Network Datasets also available
+1557,,Global,Dataset,ENTSOE.eu,"Power Statistics by Country (monthly domestic values, net generating capacity, Metadata Repository, physical energy & power flows, inventory of transmission, monthly hourly load values, inventory of generation)",https://www.entsoe.eu/data/it-platforms/#,,,EntSOE,https://www.entsoe.eu/data/power-stats/,Matthias Eifert,
+1558,,Global,Dataset,Up to date,Outlook Reports by country,https://www.entsoe.eu/outlooks/seasonal/,"PDF,XLS",,EntSOE,,Matthias Eifert,Winter and summer outlooks since 2009
+1560,,CO2,Dataset,Footprint Network,World wide data about footprints of nations,https://www.footprintnetwork.org/,,,Footprintnetwork,,,
+1570,,Catalog,Dataset,Energiedaten,Datenviewer,https://map.geo.admin.ch/?lang=en&topic=energie ,API,,GeoAdmin.ch,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch
+1571,,Catalog,Dataset,Energiedaten,Katalog aller Daten,https://www.geo.admin.ch/de/geoinformation-schweiz/verzeichnis-inspire/energie-und-wirtschaft/energiequellen.html,API,,GeoAdmin.ch,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch
+1563,,Catalog,Dataset,Heat Demand Housholds and Services Switzerland,,https://map.geo.admin.ch/?layers=ch.bfe.fernwaerme-nachfrage_wohn_dienstleistungsgebaeude&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers_opacity=0.75&E=2646117.76&N=1248467.56&zoom=9,,,GeoAdmin.ch,,,
+1566,,Catalog,Dataset,Heat Demand Industry Switzerland,,https://map.geo.admin.ch/?layers=ch.bfe.fernwaerme-nachfrage_industrie&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&layers_opacity=0.75&E=2635764.95&N=1240153.35&zoom=8,,,GeoAdmin.ch,,,
+1565,,Catalog,Dataset,Hydrological Data,,https://data.geo.admin.ch/ch.bafu.hydrogeologie-uebersichtskarte/,,,GeoAdmin.ch,,,
+1645,,"Sonnenenergie,Potenzial",Dataset,Solarpotenzial in der Schweiz (Fassaden für jede Schweizer Gemeinde),,"https://map.geo.admin.ch/?layers=ch.bfe.solarenergie-eignung-daecher,true,ch.bfe.solarenergie-eignung-fassaden&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2645915.44&N=1248328.00&zoom=11&layers_visibility=false",,,GeoAdmin.ch,,,
+1564,,Catalog,Dataset,"Wärmenetz,district heating",,https://map.geo.admin.ch/?layers=ch.bfe.thermische-netze&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2625581.05&N=1267348.71&zoom=6,,,GeoAdmin.ch,,,
+1568,,Catalog,Dataset,"Wärmenetz,district heating,supply",,https://map.geo.admin.ch/?layers=ch.bfe.fernwaerme-angebot&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2633441.18&N=1267797.30&zoom=5,,,GeoAdmin.ch,,,
+1567,,Catalog,Dataset,Wind Potential CH,,https://data.geo.admin.ch/ch.bfe.windenergie-potenzialgebiete/,,,GeoAdmin.ch,,,
+1562,,Catalog,Dataset,"Zugverkehr, Schienendaten",,https://data.geo.admin.ch/ch.bav.schienennetz/,,,GeoAdmin.ch,,,
+1574,,"Sonnenenergie,Potenzial",Dataset,Solarpotenzial,"Solarpotenzial  Gebäudedaten (Baujahr, Renovationsjahr, Fläche, Anzahl      Wohnungen etc.)  Parzellendaten  Unternehmensregister  Stromtarife Elcom  Etc.   für die Städte Aarau, Bremgarten und Rheinfelden",,,,GeoImpact,,André Golliez,Daten in Dropbox hinterlegt
+1576,,Geographie,Dataset,Aargau Geoportal,Onlinekarten,https://www.ag.ch/de/dfr/geoportal/geoportal.jsp,GIS,,Geoportal Kt. Aargau,,Matthias Eifert,Nur onlinekarten > relevante Datensätze (siehe Zeile 78) liegen vor
+1575,,,Dataset,Gebäudeadressen GEOPOST,,https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register/CSV/CH/CH.zip,,,Geoportal Kt. Aargau,,Matthias Eifert,ganze Schweiz
+1577,,Kadaster & Netze,Dataset,Geodaten Shop,"Agglomerationen und Einzelstädte CH, 1:2'000'000 Agglomerationsprogramm 1.Generation Verkehrslinien Agglomerationsprogramme 1.Generation: Knoten, Haltestelle und ESP Agglomerationsprogramme 1. Generation: Verkehrsmanagement Aggloprogramme 2. Generation: Verkehr (Flächen) Aggloprogramme 2. Generation: Verkehr (Linien) Aggloprogramme 2. Generation: Verkehr (Punkte) Aggloprogramme 3. Generation: Verkehr (Flächen) Aggloprogramme 3. Generation: Verkehr (Linien) Aggloprogramme 3. Generation: Verkehr (Punkte) Bahnlinien Buslinien Gemeindegrenzen Generalisierte Agglomerationenund städtische Kerne (1:300'000 bis 1:600'000) Hochspannungsleitung (geplant) Richtplan Kraftwerke Nationalstrassen Anschluss/Halbanschluss Richtplan Netz Kantonsstrassen undNationalstrassen Netzgebietszuteilung NE7 Netzgebietszuteilung Punktuelle Ausnahmen öV-Haltestellen Park+Pool Park+Ride (P+R) Parkplätze Radroutennetz, definitive Linienführung der kantonalen Radrouten (Richtplan) Richtplan Gesamtkarte (TIFF) Risikokataster (Mobile Risiken): Durchgangsstrassen Risikokataster (Mobile Risiken): Eisenbahnen Risikokataster (Mobile Risiken): Gasleitungen Risikokataster (Mobile Risiken): Nationalstrassen Risikokataster (Stationäre Risiken): Betriebsareale Risikokataster (Stationäre Risiken): Chemiebetriebe Schienennetz: Kilometrierungslinien (siehe unter GeoAdmin.ch ""Schienendaten"") Schienennetz: Knoten (siehe unter GeoAdmin.ch ""Schienendaten"") Schienennetz: Netzsegmente (siehe unter GeoAdmin.ch ""Schienendaten"") Solarkataster Solarpotenzial pro Gemeinde Sonneneinstrahlung (TIFF) Starkstromleitungen ab LK25 Strassennetz im EGM05-Raum Strassennetz TomTom: Eisenbahn (Railways) Strassennetz TomTom: Postleitzahlen Strassennetz TomTom: Strassenlinien Strassenverkehrszählungen/StrassenbelastungsplanMIV Versorgungsrouten Volkszählungsdaten 2012, Gesamtbevölkerung auf Hektarbasis Volkszählungsdaten 2014, Statistik der Bevölkerung - Sammelhektare pro Gemeinde für Personen ohne Adresse 3D Gebäude Gebäude ab Übersichtsplan 1:5000 Gebäude- und Wohnungsstatistik 2015 - Sammelhektare pro Gemeinde für nicht genau lokalisierbare Gebäude mit Wohnnutzung Gebäude- und Wohnungsstatistik 2015 auf Hektarbasis Gebäude- und Wohnungsstatistik 2016 - Sammelhektare pro Gemeinde für nicht genau lokalisierbare Gebäude mit Wohnnutzung Gebäude- und Wohnungsstatistik 2016 auf Hektarbasis ",https://www.ag.ch/geoportal/geodatenshop/download/Bestellung_15503_61694_131928858894705535.zip,"Shapefile,GIS",,Geoportal Kt. Aargau,,Matthias Eifert,"Daten wurden ""beschafft"" und liegen als Shape File vor (SmartUse hat sie ""angepasst"") zur Not können sie über den Hyperlink noch heruntergeladen werden"
+1578,,"Versorgungsnetze,Wasser / Gasversorgung",Dataset,GeoProRegio,GeoDatenshop Versorgungsunternehmen Aargau:  Stromnetz Gasnetz Abwasser Wasser Fernwärme,https://www.geoproregio.ch/maps,,Not open data,GeoProRegio,https://www.geoproregio.ch/nutzungsbedingungen/nutzungsbedingungen,Matthias Eifert,"Login mit folgenden Daten:  Benutzername: ZukunftAARGAU Passwort: VW5qWFSuZe  weiter via ""Geodatenshop"" "
+1582,,"Gemeinde,Gebäude",Dataset,GWR Daten,Daten Energieträger nach gebäuden und Gemeinden,,XLS,,GESA,,,als Excel File verfügbar
+1580,,,Dataset,Gebäude- und Wohnungsregister (Aargau),,https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register/CSV/meta.txt,,,"GWR Daten, GESA",,,Kantonale oder kommunale Teil-Downloads Liste
+1579,,,Dataset,Gebäude- und Wohnungsregister (ganze Schweiz),Gebäude- und Wohnungsregister (ganze Schweiz),https://www.housing-stat.ch/de/start.html  https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register/CSV/CH/CH.zip  ,,,"GWR Daten, GESA",,Matthias Eifert Oleg Lavrovsky,direkter Download-Link
+1583,,Mobilität,Dataset,IEEE Datasets,"Electric Vehicles Database with scenario, Reliability Weather Data PV Generation Verbrauchszahlen Hausgeräte, .... Consumption Data  Private Homes Offices Commercial Water Heater Refrigerator Wind based Generation (Data base includes the values of the wind speed, recorded with time intervals of 10min) Power Quality Wind based Generation (Data base includes the values of the wind speed, recorded with time intervals of 10min) Weather Data Power Quality Electric Vehicles  Database with scenario PV Generation Consumption Data  Private Homes Offices Commercial Water Heater Refrigerator ",http://sites.ieee.org/pes-iss/data-sets/,,,IEEE PES,,,
+1584,,Europe,Dataset,Available Transfer Capacity (Europe),,https://www.intraday-capacity.com/php/main.php,,,Intraday Capacity,,Matthias Eifert,
+1585,,Catalog,Dataset,SCCER – JASM," The Joint Activity Scenarios and Modelling (JASM) aims at providing a set of robust scenarios for the realization of the Swiss Energy Strategy 2050. The modeling groups of the 8 Swiss Competence Centers for Energy Research (SCCER) work together and bring in their respective experience in the field of electricity generation technologies, buildings, mobility, industry, grids, biomass, storage and economy: ",https://data.sccer-jasm.ch/,,,Jasm SCCER,,,
+1546,,Smart Meter,Dataset,Smart Meters in London,Smart Meter Data Sets,https://www.kaggle.com/jeanmidev/smart-meters-in-london,,,Kaggle,,,
+1586,,"Wetter,Echtzeit",Dataset,Echtzeitdaten Meteoschweiz,,http://map.geo.admin.ch/?topic=meteoschweiz,,,Meteo Schweiz,https://opendata.swiss/en/dataset/automatische-wetterstationen-aktuelle-messwerte,@jfisler,ch.meteoschweiz.messnetz-automatisch download preview metadata
+1587,,"Wetter,Echtzeit",Dataset,Open Data von Meteoschweiz,,http://map.geo.admin.ch/?topic=meteoschweiz,,,Meteo Schweiz,https://opendata.swiss/en/organization/bundesamt-fur-meteorologie-und-klimatologie-meteoschweiz,@jfisler,ch.meteoschweiz.messnetz-atmosphaere download preview metadata
+1590,,Haushalte,Dataset,Lebensdauertabelle Gebäudehülle,,https://intern.mieterverband.ch/ldt/objekte.php?Gid=4,,,Mieterverband,,,
+1589,,Haushalte,Dataset,Lebensdauertabelle Heizung Lüftung Klima,,https://intern.mieterverband.ch/ldt/objekte.php?Gid=1,,,Mieterverband,,,
+1588,,Haushalte,Dataset,zentrale Warmwasseraufbereitung lebensdauertabelle,,https://intern.mieterverband.ch/ldt/objekte.php?Gid=2,,,Mieterverband,,,auch Lebensdauertabelle: http://www.mietrecht.ch/32.0.html
+1592,,"Catalog,Deutschland",Dataset,Catalog München,Bevölkerung /Transport/Verkehr / Umwelt/Klima/ Geobasisdaten /Infrastruktur,https://www.opengov-muenchen.de/,"CSV,JSON",,München,,Matthias Eifert,
+1593,,"Catalog,USA",Dataset,USA Energy production / consumption / Grid / future technologies,US Fact/Statistics  Production Consumption (by sector) Grid data future technologies,https://data.nrel.gov/submissions/all,,,National Renewable Energy Laboratory,,,
+1598,,"Catalog,Deutschland",Dataset,EEX-Transparenzplattform,Archivdaten der bisherigen EEX-Transparenzplattform für die Jahre 2013 und 2014,https://www.netztransparenz.de/EU-Transparenzverordnung/Archivdaten-der-bisherigen-EEX-Transparenzplattform,ZIP,,Netztransparenz.de,,Matthias Eifert,ZIP
+1597,,"Wind Energie,Deutschland",Dataset,Netztransparent.de,"Windenergie HOchrechnung der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Windenergie-Hochrechnung,CSV,,Netztransparenz.de,,Matthias Eifert,
+1595,,Catalog,Dataset,Netztransparenz.de,Informationsplattform der deutschen Uebertragungsnetzbetreiber,https://www.netztransparenz.de/,,,Netztransparenz.de,,Matthias Eifert,
+1596,,"Sonnenenergie,Deutschland",Dataset,Netztransparenz.de,"Solarenergie Hochrechnung der 4 Uebertragungsnetzbetreiber 50 Hertz, Amprion, TennetTSO, TransnetBW",https://www.netztransparenz.de/Weitere-Veroeffentlichungen/Solarenergie-Hochrechnung,CSV,,Netztransparenz.de,,Matthias Eifert,
+1599,,"Catalog,UK",Dataset,Catalog energy consumption,"Public data sets on household energy consumption data into individual appliances, also known as Non-intrusive Appliance Load Monitoring (NIALM) or energy disaggregation  Almanac of Minutely Power Dataset Berkeley Energy Disaggregation Dat Set Controlled On/Off Loads library dataset Dataport database Dutch Residential Energy Dataset Electricity Consumption & Occupancy data set GREEND Dataset Household Electricity Use Study EDF Individual household electric power consumption data set Smart Home Data Set REFIT Electrical Load Measurements dataset UK Domestic Appliance Level Electricity dataset",http://blog.oliverparson.co.uk/2012/06/public-data-sets-for-nialm.html,,,NIALM (Non-instrusive Appliance Load Monitoring),,,
+1544,,"Deutschland,Haushalte",Dataset,Household Data,"Messdaten von Haushalten in Süddeutschland, zum Teil bis auf Ebene Geräte aufgeschlüsselt",https://data.open-power-system-data.org/household_data/,,,Open Power System,,,
+1650,,,Dataset,Windatlas,Windatlas Schweiz (50m und 100m über Grund),https://opendata.swiss/de/dataset/windatlas-schweiz-jahresmittel-der-modellierten-windgeschwindigkeit-und-windrichtung-in-50-m-ho,,,Opendata.swiss,,,"Im Feld ""Katalog(e)"" ""AEW Energie AG"" eintragen"
+1569,,Catalog,Dataset,Bundesamt für Energie,,https://opendata.swiss/en/dataset?organization=bundesamt-fur-energie-bfe&q=ch.bfe ,API,,opendata.swiss,,,Als Web Dienste via Rest Schnittstelle  : via api.3.geo.admin.ch
+1600,,Smart grid,Dataset,OpenEI.org,Different and various data sets,https://openei.org/datasets/dataset?sectors=smartgrid,,,OpenEi.org,,,
+1601,,Karten,Dataset,OSM.ch,Offene Karten und Geodaten,https://osm.ch/,,,OpenStreetMap,https://www.openstreetmap.org/,,
+1602,,Mobilität,Dataset,Zugverkehrdaten,Stationsnamen und Haltestellen Anzahl GA und Halbtax bis ins Jahr 2017 GTFS Realtime Fahrpläne ,https://opentransportdata.swiss/de/,,,Opentransportdata.ch,,Christian Trachsel,
+1603,,Klimadaten,Dataset,Climate Data,"Own data sets and various third party data sets such as: artic regions (ice thickness,...), Climate Data NASA, Climate Dta NOAA, coastal floodings,  power plant generation and emission, Climate/Health",https://www.pecanstreet.org/dataport/about/,,,Pecan Street,,,
+1604,,Klimadaten,Dataset,residential energy and water data,"Dataport provides access to a variety of residential energy and water data collected through Pecan Street’s research network, including:  whole-home and circuit-level energy use; one-second circuit-level energy use; HVAC use; refrigerator and other appliance use; electric vehicle charging behavior; solar generation; real power, apparent power, THD, voltage, phase angle data; sub-minute whole-home water use; household demographic and home survey data",https://www.pecanstreet.org https://www.pecanstreet.org/dataport/,,,Pecan Street Data Port,,,beim Dataport ist eine Anmeldung notwendig! > Andre und/oder Oleg könnt Ihr das übernehmen? Am besten Anmeldung mit einem Hochschul-Account > dann haben wir Zugriff auf alle Daten!
+1605,,,Dataset,Einspeisevergütung,Cockpit EVS (wichtigste Kennzahlen Einspeisevergütungssystem) Cockpit EIV (Einmalvergütung) > wie auf Homepage angeboten Cockpit HKN (Herkunftsnachweise) > wie auf Homepage angeboten Statistik Kostendeckende Einspeisevergütung > wie auf Homepage angeboten,https://pronovo.ch/de/services/berichte/#,,,ProNovo (Swissgrid-Daten),,Matthias Eifert,Daten Stromkennzeichnung via Mail erhalten! alle anderen Daten wie auf Homepage von Pronovo
+1606,,,Dataset,Strom,Stromkennzeichnung > detailliert von 2010 bis 2018 als Excel File,https://www.stromkennzeichnung.ch,XLS,,ProNovo (Swissgrid-Daten),,,als Excel-File vorhanden
+1608,,"Catalog,France",Dataset,Netzkennzahlen Energy Frankreich,"Generation (Forecast, Storage Park, Actual Generation, installed Capac) Consumption (consolidated, demand response, Physical Showcases, tempo like supply contract) Market (demand response signal, imbalance reconstitution, balancing capacity, wholesale Market, balancing energy, consumption control measure, ...)",https://data.rte-france.com/catalog/all_categories,API,,RTE,,Oleg Lavrovsky,"API muss beantragt werden!! > Andre und/oder Oleg, könnt Ihr das übernehmen?"
+1609,,Catalog,Dataset,data.sbb.ch,"Katalog offenen SBB Daten (~60 data packages), e.g.  spezifische Verbrauchswerte pro Trassenabschnitt und Fahrzeugtypen / Komposition für Personenzüge  Meteodaten entlang eines Trassenabschnitts  Daten zu den Zugkompositionen und Auslastungsdaten",https://data.sbb.ch/pages/home/,,,SBB,,Matthias Rücker,
+1610,,"Sonnenenergie,Potenzial",Dataset,UVEK GIS,PV Potenzial,https://www.uvek-gis.admin.ch/BFE/sonnendach/?lang=de,,,Sonnendach,,,
+1611,,"Sonnenenergie,Potenzial",Dataset,Solarpotenzial in der Schweiz,Dach für jede Schweizer Gemeinde,"https://map.geo.admin.ch/?lang=de&topic=energie&bgLayer=ch.swisstopo.swissimage&catalogNodes=2419,2420,2427,2480,2429,2431,2434,2436,2767,2441,3206&layers=ch.bfe.solarenergie-eignung-daecher",,,Sonnendach.ch,https://map.geo.admin.ch/?layers=ch.bfe.solarenergie-eignung-daecher&lang=de&topic=ech&bgLayer=ch.swisstopo.pixelkarte-farbe&E=2645915.44&N=1248328.00&zoom=11,,
+1612,,Catalog,Dataset,Aargau Datenportal,overview statistics Cantone of Aargau,https://www.ag.ch/de/dfr/statistik/datenportal/filterabfrage/datenportal_filterabfrage.jsp?rewriteRemoteUrl=%2Fapp%2Fsajato-frontend%2Fselect,,,Statistik Aargau,,,
+1613,,"Catalog,Deutschland",Dataset,OpenVVS.de,Verkehr,https://www.openvvs.de/,,,Stuttgart,,Matthias Eifert Oleg Lavrovski,
+1614,,"Catalog,Deutschland",Dataset,Stuttgart Datenportal,Testdaten: Liegenschaftskataster Fahrradkarte Luftbilder Stadtplan/Stadtkarte Stuttgart 3D ,https://www.stuttgart.de/geoportal,,,Stuttgart,,Matthias Eifert Oleg Lavrovski,
+1543,,Smart grid,Dataset,"Daten aus ""Swiss2grid"" Programm","The main objective is to demonstrate an innovative concept, Smart Grid, which hypothesises intelligent decentralised grid management,  based on individual junction regulation and, in order to reduce the level of complexity of the system, controlled by a light infrastructure.",http://www.s2g.ch/?lang=en,,,Swiss2grid,,,
+1615,,Mobilität,Dataset,Swisscom Open Data,"Mobilität (Fahrten auf Autobahnen, Reisedistanzen pro Tag Kommunikation (Breitbandanschlüsse in Gemeinden, Heatmaps, Netzwerk ",https://opendata.swisscom.com/explore/?sort=title&refine.language=de,,,Swisscom OpenData,,Matthias Eifert,
+1621,,Uebertragung,Dataset,Swissgrid Data,"Uebertragung (Importe, Exporte, Verluste)",https://www.swissgrid.ch/de/home/operation/grid-data/transmission.html,XLS,,Swissgrid,,,Daten in XLS
+1618,,,Dataset,Swissgrid Daten,Tarife und Vergütungssätze für das Uebertragungsnetz,https://www.swissgrid.ch/de/home/customers/topics/tariffs.html,PDF,,Swissgrid,,,
+1616,,Netzdaten,Dataset,Swissgrid Daten,Netzdaten allg,https://www.swissgrid.ch/de/home/operation/grid-data.html,,,Swissgrid,,,
+1620,,,Dataset,Swissgrid Daten,"Energieübersicht Schweiz: monatliche Daten zu Produktion, Verbrauch, Endverbrauch",https://www.swissgrid.ch/de/home/operation/grid-data/generation.html,XLS,,Swissgrid,,,Daten in XLS
+1619,,Netzkennzahlen,Dataset,Swissgrid Netzkennzahlen,"Frequenz, Importe, Exporte, Wide Area Monitoring",https://www.swissgrid.ch/de/home/operation/grid-data/current-data.html,XLS,,Swissgrid,,,Daten in XLS
+1617,,Frequenz,Dataset,Swissgrid.ch Frequenzstatistik,Frequenzstatistik 2003 bis 2018,https://www.swissgrid.ch/de/home/customers/topics/frequency-statistic.html,PDF,,Swissgrid,,,
+1622,,,Dataset,SwissRe,"Sigma Explorer - regional market structures and long-term premium growth trends in the global re/insurance industry - interactive sigma explorer tool to visualise and share historical data about natural and man made catastrophes, the number of lives lost and world re/insurance premiums going as far back as 1970",https://www.swissre.com/institute/research/sigma-research.html,,,SwissRe,http://www.sigma-explorer.com/,,noch in Abklärung
+1623,,"Sonnenenergie,Anlagen",Dataset,Swisssolar.ch,Solaranlagenverzeichnis,https://www.swissolar.ch/ueber-solarenergie/solaranlagenverzeichnis/,,,Swisssolar,,,
+1627,,Geodaten,Dataset,Adressen,,https://data.geo.admin.ch/ch.bfs.gebaeude_wohnungs_register,,,Swisstopo,https://map.geo.admin.ch/?layers=ch.bfs.gebaeude_wohnungs_register,,Metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.bfs.gebaeude_wohnungs_register
+1626,,Geodaten,Dataset,Gemeindegrenzen,,https://map.geo.admin.ch/?layers=ch.swisstopo.swissboundaries3d-bezirk-flaeche.fill,,,Swisstopo,,André Golliez,linked data  http://ld.geo.admin.ch/ metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.swisstopo.swissboundaries3d-bezirk-flaeche.fill
+1624,,Geodaten,Dataset,Namen/Flurnamen,,https://data.geo.admin.ch/ch.swisstopo.swissnames3d,,,Swisstopo,https://map.geo.admin.ch/?layers=ch.swisstopo.swissnames3d,André Golliez,Metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.swisstopo.swissnames3d
+1625,,Geodaten,Dataset,PLZ Ortschaften,,https://data.geo.admin.ch/ch.swisstopo-vd.ortschaftenverzeichnis_plz/,,,Swisstopo,https://map.geo.admin.ch/?layers=ch.swisstopo-vd.ortschaftenverzeichnis_plz,André Golliez,Metadaten http://www.geocat.ch/geonetwork/srv/ger/catalog.search#/search?any=ch.swisstopo-vd.ortschaftenverzeichnis_plz
+1628,,Netzkennzahlen,Dataset,TransnetBW.de,"Kennzahlen (Einspeisung Wind, Einspeisung Photovoltaik, EEG Intraday, Differenz Einspeisungsprognose zu vermarkteter Menge) ",https://www.transnetbw.de/de/transparenz/marktdaten/kennzahlen,,,TransnetBW,,Matthias Eifert,Homepage >
+1630,,Europe,Dataset,tscnet.eu,Informationsplattform der Transmission System Operator Security Cooperation (TSC).,https://www.tscnet.eu/,,,Tschet.eu,,Matthias Eifert,
+1631,,"Wind Energie,Deutschland",Dataset,Opendata.dwd.de,Reanalyse-Daten des DWD (gemeinsam mit den Unis Bonn und Köln erstellt und jetzt operationell weitergeführt) an. Diese Daten haben eine Auflösung von 6.2km und gehen bis 1995 zurück,http://opendata.dwd.de/climate_environment/REA/COSMO_REA6/,,,Uni Bonn,https://reanalysis.meteo.uni-bonn.de,,Website mit Erläuterungen und Links zu den Datensätzen
+1633,,"Wetter,Echtzeit",Dataset,SBB Wetterapi von meteomatics,Zugriff auf die Wetterapi von meteomatics. Beschreibung der Parameter auf API.Meteomatics.com. Die Historie geht mehrere Jahre zurück und es sind unterschiedlichste Parameter verfügbar,https://weather.api.sbb.ch,,,Wetterdaten SBB,https://data.sbb.ch/pages/event/?flg=de,Christian Trachsel Matthias Rücker,
+1547,,Catalog,Dataset,Wikipedia – Open energy system databases,Overview of different open energy data sets,https://en.wikipedia.org/wiki/Open_energy_system_databases,,,Wikipedia,,,
+1634,,Catalog,Dataset,Energy Data by country,General Datasets about countries and regions,https://data.worldbank.org/,,,Worldbank,,,
+1635,,Catalog,Dataset,Energy Data by country,General Datasets about countries and regions,https://datacatalog.worldbank.org/  ,,,Worldbank,,,
+1636,,Catalog,Dataset,catalog Zürich,"Bevölkerung (Linked open statistical Data, Daten ZüriZahlen App) Bauen und Wohnen (Fernwärmegebiete, Gasrückzugsgebiete, Linked Open statistical data) Mobilität (Standorte autom.Zählgeräte, Linked open statistical Data, Daten Velozählstelle,...) Umwelt Energie (Linked open statistical data, Beleuchtung, Wasser-&Gasversorgung) ",https://data.stadt-zuerich.ch/,"WMS,WFS,JSON,XML,PDF",,Zürich,,Matthias Eifert,"wms, wfs, json, xml, pdf, csv, kmz, gpkg"
