@@ -1,10 +1,10 @@
 # Open Energy Data
 
-A list of energy-related open datasets provided as [Simple Data Format Data Packages](http://dataprotocols.readthedocs.io/en/latest/simple-data-format.html), compiled by [Opendata.ch](http://opendata.ch) in preparation for the [Open Energy Data Hackdays](https://opendata.ch/projects/energy-data-hackdays-2019/). The metadata was collected by us through web searches and public contributions, and is provided as "best effort", without any guarantee of correctness.
+A list of energy-related datasets provided as [Data Package](http://dataprotocols.readthedocs.io/en/latest/simple-data-format.html) with a focus on Switzerland and neighbouring regions. This list is maintained by the [Opendata.ch](http://opendata.ch) community through the [Open Energy Data](https://energy.opendata.ch/) working group. The metadata was collected by us through web searches and public contributions, and is provided as "best effort", without any guarantee of correctness.
 
-To add new datasets or make modifications, please see the [master list](https://airtable.com/shr3ZVzEUlxS2JRLu) and [suggest new datasets](https://airtable.com/shrykWVriVLuRzZ9I) to open up using Airtable.
+:star: To add new datasets or make modifications, please see the [master list](https://airtable.com/shr3ZVzEUlxS2JRLu) and [suggest new datasets](https://airtable.com/shrykWVriVLuRzZ9I) to open up using Airtable.
 
-You can also visit our [GitHub repository](https://github.com/schoolofdata-ch/energy-data-ch) and contact us via Issues or Pull Request.
+:question: You can also visit our [GitHub repository](https://github.com/schoolofdata-ch/energy-data-ch) and contact us via Issues or Pull Request.
 
 [![](https://assets.okfn.org/p/data/img/logo.png)](https://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fschoolofdata-ch%2Fenergy-data-ch%2Fmaster%2Fdatapackage.json)
 
