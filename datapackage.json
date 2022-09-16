@@ -2,16 +2,13 @@
   "name": "energy-data-ch",
   "title": "Datasets related to Energy with a focus on Switzerland",
   "format": "csv",
-  "datapackage_version": "1.0.0",
-  "last_modified": "2020-08-27",
-  "license": "PDDL-1.0",
-  "licenses": [
-    {
-      "type": "ODC-PDDL-1.0",
-      "url": "http://opendatacommons.org/licenses/pddl/1.0/"
-    }
-  ],
-  "sources": [],
+  "datapackage_version": "1.1.0",
+  "last_modified": "2022-09-16",
+  "licenses": [{
+      "name": "CC0-1.0",
+      "title": "CC0 1.0",
+      "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+  }],
   "resources": [
     {
       "path": "data/energy-datasets.csv",
@@ -23,49 +20,58 @@
       "schema": {
         "fields": [
           {
+            "name": "ID",
+            "description": "A numeric identifier for us to keep track of unique submissions",
+            "type": "integer",
+            "format": "default"
+          },{
             "name": "Verified",
             "description": "True if information on this dataset has been community verified",
-            "type": "string"
-          },{
-            "name": "Organisation",
-            "description": "The current data owner or maintainer",
-            "type": "string"
-          },{
-            "name": "Title",
-            "description": "A short, concise title",
-            "type": "string"
-          },{
-            "name": "Type",
-            "description": "Whether this is a dataset, literature, code sample, etc.",
-            "type": "string"
-          },{
-            "name": "Link",
-            "description": "A webpage which describes the data and provides download URLs",
-            "type": "string"
-          },{
-            "name": "Example",
-            "description": "Any example applications or visualisations which illustrate this specific dataset",
             "type": "string"
           },{
             "name": "Topic",
             "description": "Any keywords, comma delimited, which help us to sort through the datasets. Include an ISO country code (ch, uk, ...), if it is country-specific.",
             "type": "string"
           },{
-            "name": "Permissions",
-            "description": "Brief description of the terms of use, along with detailed links to any License or such",
+            "name": "Type",
+            "description": "dataset / geodata / service / code / literature / portal",
+            "type": "string"
+          },{
+            "name": "Title",
+            "description": "A short, concise title",
+            "type": "string"
+          },{
+            "name": "Description",
+            "description": "An overview of this dataset and the context in which it was made",
+            "type": "string"
+          },{
+            "name": "Link",
+            "description": "A webpage which describes the data and provides download URLs",
             "type": "string"
           },{
             "name": "Formats",
             "description": "List of data formats available, comma delimited",
             "type": "string"
           },{
-            "name": "Comments",
-            "description": "Further details related to format, content, or usage",
+            "name": "Permissions",
+            "description": "Brief description of the terms of use, along with detailed links to any License or such",
+            "type": "string"
+          },{
+            "name": "Organisation",
+            "description": "The current data owner or maintainer",
+            "type": "string"
+          },{
+            "name": "Example",
+            "description": "Any example applications or visualisations which illustrate this specific dataset",
             "type": "string"
           },{
             "name": "Contact",
             "description": "Whom to contact for further information",
             "type": "string"
+          },{
+            "name": "Comment",
+            "description": "Further details related to format, content, or usage",
+            "type": "any"
           }
         ]
       }
