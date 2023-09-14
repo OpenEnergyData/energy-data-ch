@@ -25,8 +25,12 @@
             "type": "integer",
             "format": "default"
           },{
-            "name": "Verified",
-            "description": "True if information on this dataset has been community verified",
+            "name": "Title",
+            "description": "A short, concise title",
+            "type": "string"
+          },{
+            "name": "Description",
+            "description": "An overview of this dataset and the context in which it was made",
             "type": "string"
           },{
             "name": "Topic",
@@ -35,14 +39,6 @@
           },{
             "name": "Type",
             "description": "dataset / geodata / service / code / literature / portal",
-            "type": "string"
-          },{
-            "name": "Title",
-            "description": "A short, concise title",
-            "type": "string"
-          },{
-            "name": "Description",
-            "description": "An overview of this dataset and the context in which it was made",
             "type": "string"
           },{
             "name": "Link",
@@ -61,17 +57,9 @@
             "description": "The current data owner or maintainer",
             "type": "string"
           },{
-            "name": "Example",
-            "description": "Any example applications or visualisations which illustrate this specific dataset",
-            "type": "string"
-          },{
             "name": "Contact",
             "description": "Whom to contact for further information",
             "type": "string"
-          },{
-            "name": "Comment",
-            "description": "Further details related to format, content, or usage",
-            "type": "any"
           }
         ]
       }
